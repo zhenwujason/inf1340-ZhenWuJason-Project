@@ -323,8 +323,11 @@ Overview:
 - Missing values
 
 20/10
-Tinkering with dataset without defining any functions. 
-Successfully remove the titles in Table 1, as these are not part of the data set and simply add NaN information in unique cells that simply represent blank space for stylism rather than provide actual data. 
+**Tinkering with dataset without defining any functions.**
 
+- Successfully remove the titles in Table 1, as these are not part of the data set and simply add NaN information in unique cells that simply represent blank space for stylism rather than provide actual data. 
 
+21/10
+**Tinkering with dataset without defining any functions.**
+- Renamed the columns without removing NaN blank spaces. 
 
