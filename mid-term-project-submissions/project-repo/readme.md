@@ -322,4 +322,9 @@ Overview:
 **PROBLEMS IN CELLS** 
 - Missing values
 
+20/10
+Tinkering with dataset without defining any functions. 
+Successfully remove the titles in Table 1, as these are not part of the data set and simply add NaN information in unique cells that simply represent blank space for stylism rather than provide actual data. 
+
+
 
