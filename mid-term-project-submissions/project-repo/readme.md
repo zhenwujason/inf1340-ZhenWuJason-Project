@@ -2,7 +2,7 @@
 The goal of this project is to take the dataset of collected information and clean it up using the tidy data principles
 
 
-## LOG:
+## LOGBOOK OF REFLECTIONS 
 19/10
 Opening the dataset and understanding the content
 
@@ -330,4 +330,38 @@ Overview:
 21/10
 **Tinkering with dataset without defining any functions.**
 - Renamed the columns without removing NaN blank spaces. 
+
+
+25/10
+## Reflections: 
+Back to the drawing board:
+Do we want to divide the data into two tables 1) for the main data country 2) for summary of least developed, developed, developing? 
+
+### What is the dataset in table1? 
+Table 1 includes individual years with male and female, as well as summary per country. 
+Therefore, our main columns can be:
+- IMS Male
+- IMS Female
+- IMS Total
+- Country
+- Region
+- Continent 
+- Status
+
+04/10 
+##  Reflections
+Completed first table with basic tidying, that is Columns and Rows have been melted and verticalized. However, I am still puzzled on whether the Notes column, which is elaborated information in the appendix is vital or not to the dataset. I also did not deal with the countries and regions mixed together in the same table. While the regional component does not hinder the rows, I feel the region and country should be separate columns to make it ultimtely easier to parse and sum. 
+
+06/10
+Completing the same basic tidying and extracting process as table 1, but for all tables before going more in depth. I divided the summing tables of development level as these did not fit into the table with country names and regions. It will act as a separate table. After completing a percentage analysis of missing data, I know I'll have to do something about "Notes" and "Type of Data" as both those columns are missing a tremendous amount of information. 
+
+14/10 
+Assessing that my titles (i.e. # of Migrants) are not clear and chosen acronyms for coding simplicity (T, F, M) will need to be changed for more effective use of the dataset. Repetitive code is not ideal, therefore my final submission will need to reflect code for all the tables and not one table. 
+
+- Create functions for each step to process all the tables. 
+
+
+
+
+
 
