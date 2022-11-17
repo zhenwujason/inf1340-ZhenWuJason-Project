@@ -366,3 +366,9 @@ Assessing that my titles (i.e. # of Migrants) are not clear and chosen acronyms 
 I opted to split table 6 into two tables as one column variable was simply not computable with the others (1990-1995 vs 1990, 1995). I considered dividing the date series into single years, but I could not decide on which value belonging to 1990-1995 and 1995-2000 could be attributed to 1995 specifically. Thus, to avoid inaccurate data, I preferred to separate the data. 
 
 
+15/11
+
+I am assessing if Table 6 Columns "Year" and "Percentage of Refugee" + "Refugee Stock" can be appended. If they have the same length of indexes, as they append the same dates, I believe I can simply integrate them to another table. 
+
+
+Realized I replicated WORLD, less developing world by not removing it sooner. 
