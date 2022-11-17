@@ -372,25 +372,3 @@ I am assessing if Table 6 Columns "Year" and "Percentage of Refugee" + "Refugee 
 
 
 Realized I replicated WORLD, less developing world by not removing it sooner. 
-
-Huge clean up and restructuring, as it was too easy to get lost within tinkered code that no longer served. 
-
-Merged Tables together
-
-16/11
-
-Still to be done:
-
-TYPE DATA (A)
-- Separate all letters in Type data (a) into columns
-- Rename all the columns
-- Turn Data into YES, NaN into NO.
-
-REINDEX ALL TABLES
-
-ADD TABLE 4 TO TABLE 1
-
-ADD TABLE 6 TO TABLE 5
-
-
-- I created a lot of work for myself by splitting World into summary tables when they could have stayed in the data frame 
