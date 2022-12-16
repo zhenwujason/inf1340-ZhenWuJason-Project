@@ -1,0 +1,31 @@
+,Name,Notes,Country Code,type,Female Migrants Percentage of Migrant Stock,gender,years,foreignbornpopincluded,foreigncitizenincluded,refugeeincluded,dataimputated,nodata
+0,WORLD,No notes,900,F,49.03914975256289,Female,1990,False,False,False,False,True
+1,Developed regions,b,901,F,51.12397720437879,Female,1990,False,False,False,False,True
+2,Developing regions,c,902,F,46.59209919944813,Female,1990,False,False,False,False,True
+3,Least developed countries,d,941,F,47.2611548557615,Female,1990,False,False,False,False,True
+4,Less developed regions excluding least developed countries,No notes,934,F,46.46668424321822,Female,1990,False,False,False,False,True
+5,WORLD,No notes,900,F,49.168789529109105,Female,1995,False,False,False,False,True
+6,Developed regions,b,901,F,51.149024101720556,Female,1995,False,False,False,False,True
+7,Developing regions,c,902,F,46.50013494435746,Female,1995,False,False,False,False,True
+8,Least developed countries,d,941,F,47.57166388267656,Female,1995,False,False,False,False,True
+9,Less developed regions excluding least developed countries,No notes,934,F,46.27902205449207,Female,1995,False,False,False,False,True
+10,WORLD,No notes,900,F,49.11224370344867,Female,2000,False,False,False,False,True
+11,Developed regions,b,901,F,51.113307336100966,Female,2000,False,False,False,False,True
+12,Developing regions,c,902,F,46.12844436498955,Female,2000,False,False,False,False,True
+13,Least developed countries,d,941,F,46.82668932474215,Female,2000,False,False,False,False,True
+14,Less developed regions excluding least developed countries,No notes,934,F,46.00959750877573,Female,2000,False,False,False,False,True
+15,WORLD,No notes,900,F,48.83299288803053,Female,2005,False,False,False,False,True
+16,Developed regions,b,901,F,51.1715006895864,Female,2005,False,False,False,False,True
+17,Developing regions,c,902,F,45.13429713595554,Female,2005,False,False,False,False,True
+18,Least developed countries,d,941,F,45.15740603012823,Female,2005,False,False,False,False,True
+19,Less developed regions excluding least developed countries,No notes,934,F,45.13076806542059,Female,2005,False,False,False,False,True
+20,WORLD,No notes,900,F,48.305660272804396,Female,2010,False,False,False,False,True
+21,Developed regions,b,901,F,51.658931886294035,Female,2010,False,False,False,False,True
+22,Developing regions,c,902,F,43.31977984411184,Female,2010,False,False,False,False,True
+23,Least developed countries,d,941,F,45.499573491631956,Female,2010,False,False,False,False,True
+24,Less developed regions excluding least developed countries,No notes,934,F,43.04367176579376,Female,2010,False,False,False,False,True
+25,WORLD,No notes,900,F,48.249769031819895,Female,2015,False,False,False,False,True
+26,Developed regions,b,901,F,51.86668707735452,Female,2015,False,False,False,False,True
+27,Developing regions,c,902,F,43.327077884585194,Female,2015,False,False,False,False,True
+28,Least developed countries,d,941,F,45.942752093153,Female,2015,False,False,False,False,True
+29,Less developed regions excluding least developed countries,No notes,934,F,42.98439824419433,Female,2015,False,False,False,False,True
