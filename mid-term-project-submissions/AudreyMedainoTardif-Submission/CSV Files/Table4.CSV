@@ -1,0 +1,1561 @@
+,Name,Notes,Country Code,type,Female Migrants Percentage of Migrant Stock,gender,years,foreignbornpopincluded,foreigncitizenincluded,refugeeincluded,dataimputated,nodata
+0,Sub-Saharan Africa,e,947,F,47.276121097166104,Female,1990,False,False,False,False,True
+1,Africa,No notes,903,F,47.23240753410492,Female,1990,False,False,False,False,True
+2,Eastern Africa,No notes,910,F,48.50481159470834,Female,1990,False,False,False,False,True
+3,Burundi,No notes,108,B R,50.98706133109183,Female,1990,True,False,True,False,False
+4,Comoros,No notes,174,B,52.2906456424462,Female,1990,True,False,False,False,False
+5,Djibouti,No notes,262,B R,47.43783801474378,Female,1990,True,False,True,False,False
+6,Eritrea,No notes,232,I,47.43416610398379,Female,1990,False,False,False,True,False
+7,Ethiopia,No notes,231,B R,47.439046555708465,Female,1990,True,False,True,False,False
+8,Kenya,No notes,404,B R,45.89427229794276,Female,1990,True,False,True,False,False
+9,Madagascar,No notes,450,C,44.19032487352092,Female,1990,False,True,False,False,False
+10,Malawi,No notes,454,B R,51.53778761470005,Female,1990,True,False,True,False,False
+11,Mauritius,1,480,C,51.20398560752837,Female,1990,False,True,False,False,False
+12,Mayotte,No notes,175,B,42.34683826909186,Female,1990,True,False,False,False,False
+13,Mozambique,No notes,508,B R,45.99941143772684,Female,1990,True,False,True,False,False
+14,Réunion,No notes,638,B,46.29610208005593,Female,1990,True,False,False,False,False
+15,Rwanda,No notes,646,B R,49.52742557969337,Female,1990,True,False,True,False,False
+16,Seychelles,No notes,690,B,40.76861058855146,Female,1990,True,False,False,False,False
+17,Somalia,No notes,706,I R,48.94332774402355,Female,1990,False,False,False,True,False
+18,South Sudan,No notes,728,B R,..,Female,1990,True,False,True,False,False
+19,Uganda,No notes,800,B R,48.042206169723826,Female,1990,True,False,True,False,False
+20,United Republic of Tanzania,2,834,B R,50.63107007534515,Female,1990,True,False,True,False,False
+21,Zambia,No notes,894,B R,48.82001512387602,Female,1990,True,False,True,False,False
+22,Zimbabwe,No notes,716,B R,43.83915025182628,Female,1990,True,False,True,False,False
+23,Middle Africa,No notes,911,F,49.02576461969285,Female,1990,False,False,False,False,True
+24,Angola,No notes,24,B R,45.87224393591312,Female,1990,True,False,True,False,False
+25,Cameroon,No notes,120,B,45.15534551374819,Female,1990,True,False,False,False,False
+26,Central African Republic,No notes,140,C,46.92268792575185,Female,1990,False,True,False,False,False
+27,Chad,No notes,148,B R,46.015711172688384,Female,1990,True,False,True,False,False
+28,Congo,No notes,178,B,50.29360247536594,Female,1990,True,False,False,False,False
+29,Democratic Republic of the Congo,No notes,180,B R,51.85363447601014,Female,1990,True,False,True,False,False
+30,Equatorial Guinea,No notes,226,C,46.53284671532847,Female,1990,False,True,False,False,False
+31,Gabon,No notes,266,C,42.91842475386779,Female,1990,False,True,False,False,False
+32,Sao Tome and Principe,No notes,678,C,47.09781440343963,Female,1990,False,True,False,False,False
+33,Northern Africa,No notes,912,F,48.79148635153129,Female,1990,False,False,False,False,True
+34,Algeria,No notes,12,C R,45.16086642283011,Female,1990,False,True,True,False,False
+35,Egypt,No notes,818,B R,47.07900614824879,Female,1990,True,False,True,False,False
+36,Libya,No notes,434,C,46.89996171306679,Female,1990,False,True,False,False,False
+37,Morocco,No notes,504,C,47.12815374806449,Female,1990,False,True,False,False,False
+38,Sudan,3,729,B R,50.36089631733215,Female,1990,True,False,True,False,False
+39,Tunisia,No notes,788,C,50.24220724515585,Female,1990,False,True,False,False,False
+40,Western Sahara,No notes,732,I,45.498511904761905,Female,1990,False,False,False,True,False
+41,Southern Africa,No notes,913,F,39.606164789396985,Female,1990,False,False,False,False,True
+42,Botswana,No notes,72,C,39.60741548527808,Female,1990,False,True,False,False,False
+43,Lesotho,No notes,426,C R,47.59708737864078,Female,1990,False,True,True,False,False
+44,Namibia,No notes,516,B,47.158926069909896,Female,1990,True,False,False,False,False
+45,South Africa,No notes,710,B R,38.37636600929819,Female,1990,True,False,True,False,False
+46,Swaziland,No notes,748,B R,45.908302698203514,Female,1990,True,False,True,False,False
+47,Western Africa,No notes,914,F,46.48613366325892,Female,1990,False,False,False,False,True
+48,Benin,No notes,204,C B R,47.394111163596286,Female,1990,False,False,False,True,False
+49,Burkina Faso,No notes,854,B R,51.99981696348136,Female,1990,True,False,True,False,False
+50,Cabo Verde,No notes,132,B,50.408688836636436,Female,1990,True,False,False,False,False
+51,Côte d'Ivoire,No notes,384,C B,44.30001552499249,Female,1990,False,False,False,False,False
+52,Gambia,No notes,270,B,43.866986107701294,Female,1990,True,False,False,False,False
+53,Ghana,No notes,288,B,49.63330522714451,Female,1990,True,False,False,False,False
+54,Guinea,No notes,324,C R,50.13639032656874,Female,1990,False,True,True,False,False
+55,Guinea-Bissau,No notes,624,B R,49.96746486205102,Female,1990,True,False,True,False,False
+56,Liberia,No notes,430,B,43.216376732235375,Female,1990,True,False,False,False,False
+57,Mali,No notes,466,B R,48.95418574557038,Female,1990,True,False,True,False,False
+58,Mauritania,No notes,478,C R,48.43797581728616,Female,1990,False,True,True,False,False
+59,Niger,No notes,562,B R,52.17383773297305,Female,1990,True,False,True,False,False
+60,Nigeria,No notes,566,C R,43.89964543899645,Female,1990,False,True,True,False,False
+61,Saint Helena,4,654,B,42.03655352480418,Female,1990,True,False,False,False,False
+62,Senegal,No notes,686,B R,48.65574497984542,Female,1990,True,False,True,False,False
+63,Sierra Leone,No notes,694,B R,44.63107783407277,Female,1990,True,False,True,False,False
+64,Togo,No notes,768,C R,49.43307717693649,Female,1990,False,True,True,False,False
+65,Asia,No notes,935,F,45.96873005195996,Female,1990,False,False,False,False,True
+66,Central Asia,No notes,5500,F,55.17053069796882,Female,1990,False,False,False,False,True
+67,Kazakhstan,No notes,398,B,53.96319628647215,Female,1990,True,False,False,False,False
+68,Kyrgyzstan,No notes,417,B,58.20524713400943,Female,1990,True,False,False,False,False
+69,Tajikistan,No notes,762,B,56.137094893914664,Female,1990,True,False,False,False,False
+70,Turkmenistan,No notes,795,B,56.22381729200653,Female,1990,True,False,False,False,False
+71,Uzbekistan,No notes,860,B,56.223956442831216,Female,1990,True,False,False,False,False
+72,Eastern Asia,No notes,906,F,49.33793342080571,Female,1990,False,False,False,False,True
+73,China,5,156,C,48.997372203814955,Female,1990,False,True,False,False,False
+74,"China, Hong Kong Special Administrative Region",6,344,B,49.30999836373938,Female,1990,True,False,False,False,False
+75,"China, Macao Special Administrative Region",7,446,B,52.996630040917445,Female,1990,True,False,False,False,False
+76,Democratic People's Republic of Korea,No notes,408,I,48.998621822127085,Female,1990,False,False,False,True,False
+77,Japan,No notes,392,C,49.054225167483864,Female,1990,False,True,False,False,False
+78,Mongolia,No notes,496,C,49.1068770467401,Female,1990,False,True,False,False,False
+79,Republic of Korea,No notes,410,C,43.717600018597295,Female,1990,False,True,False,False,False
+80,South-Eastern Asia,No notes,920,F,47.469387641589975,Female,1990,False,False,False,False,True
+81,Brunei Darussalam,No notes,96,B,42.81967213114754,Female,1990,True,False,False,False,False
+82,Cambodia,No notes,116,B,50.26970684039088,Female,1990,True,False,False,False,False
+83,Indonesia,No notes,360,B R,50.627346374234335,Female,1990,True,False,True,False,False
+84,Lao People's Democratic Republic,No notes,418,C R,48.36875710662119,Female,1990,False,True,True,False,False
+85,Malaysia,8,458,C R,41.68755029313714,Female,1990,False,True,True,False,False
+86,Myanmar,No notes,104,C,45.85345763600285,Female,1990,False,True,False,False,False
+87,Philippines,No notes,608,C R,47.20161483991147,Female,1990,False,True,True,False,False
+88,Singapore,No notes,702,B,52.446023578847786,Female,1990,True,False,False,False,False
+89,Thailand,No notes,764,B R,46.37984614889927,Female,1990,True,False,True,False,False
+90,Timor-Leste,No notes,626,B,50.30154121063212,Female,1990,True,False,False,False,False
+91,Viet Nam,No notes,704,C R,45.83540792374991,Female,1990,False,True,True,False,False
+92,Southern Asia,No notes,5501,F,45.457532829092386,Female,1990,False,False,False,False,True
+93,Afghanistan,No notes,4,B,43.55996255590611,Female,1990,True,False,False,False,False
+94,Bangladesh,No notes,50,B R,13.856924265298879,Female,1990,True,False,True,False,False
+95,Bhutan,No notes,64,B,18.4735581971689,Female,1990,True,False,False,False,False
+96,India,No notes,356,B R,47.760717578221545,Female,1990,True,False,True,False,False
+97,Iran (Islamic Republic of),No notes,364,B R,42.75562895991496,Female,1990,True,False,True,False,False
+98,Maldives,No notes,462,C R,45.02244216825872,Female,1990,False,True,True,False,False
+99,Nepal,No notes,524,B R,70.70380999781382,Female,1990,True,False,True,False,False
+100,Pakistan,No notes,586,B R,47.4182871568009,Female,1990,True,False,True,False,False
+101,Sri Lanka,No notes,144,B R,43.64187579702124,Female,1990,True,False,True,False,False
+102,Western Asia,No notes,922,F,41.45833981330082,Female,1990,False,False,False,False,True
+103,Armenia,No notes,51,B R,58.934499513501294,Female,1990,True,False,True,False,False
+104,Azerbaijan,9,31,B R,56.2240709927898,Female,1990,True,False,True,False,False
+105,Bahrain,No notes,48,C,29.144632011638915,Female,1990,False,True,False,False,False
+106,Cyprus,10,196,B,53.28615454856751,Female,1990,True,False,False,False,False
+107,Georgia,11,268,B,56.22406148389004,Female,1990,True,False,False,False,False
+108,Iraq,No notes,368,C R,33.34249982065568,Female,1990,False,True,True,False,False
+109,Israel,No notes,376,B R,52.79138165889224,Female,1990,True,False,True,False,False
+110,Jordan,No notes,400,C R,48.83992571197776,Female,1990,False,True,True,False,False
+111,Kuwait,No notes,414,C R,39.04658546097278,Female,1990,False,True,True,False,False
+112,Lebanon,No notes,422,B R,48.83987374282261,Female,1990,True,False,True,False,False
+113,Oman,No notes,512,C,20.23782894736842,Female,1990,False,True,False,False,False
+114,Qatar,No notes,634,C,27.060593440580078,Female,1990,False,True,False,False,False
+115,Saudi Arabia,No notes,682,C R,33.48185285623829,Female,1990,False,True,True,False,False
+116,State of Palestine,12,275,B,54.18441241346781,Female,1990,True,False,False,False,False
+117,Syrian Arab Republic,No notes,760,C R,49.01881983924721,Female,1990,False,True,True,False,False
+118,Turkey,No notes,792,B R,50.38790532841333,Female,1990,True,False,True,False,False
+119,United Arab Emirates,No notes,784,C R,28.664890010056837,Female,1990,False,True,True,False,False
+120,Yemen,No notes,887,C R,43.624172366505974,Female,1990,False,True,True,False,False
+121,Europe,No notes,908,F,51.346886987191986,Female,1990,False,False,False,False,True
+122,Eastern Europe,No notes,923,F,53.62073972853851,Female,1990,False,False,False,False,True
+123,Belarus,No notes,112,B,54.2008379657912,Female,1990,True,False,False,False,False
+124,Bulgaria,No notes,100,B,57.940492794049284,Female,1990,True,False,False,False,False
+125,Czech Republic,No notes,203,C,47.99989129844013,Female,1990,False,True,False,False,False
+126,Hungary,No notes,348,B R,55.055969612385255,Female,1990,True,False,True,False,False
+127,Poland,No notes,616,B,57.24522088260826,Female,1990,True,False,False,False,False
+128,Republic of Moldova,13,498,B,55.96605422649873,Female,1990,True,False,False,False,False
+129,Romania,No notes,642,B,57.591754095343276,Female,1990,True,False,False,False,False
+130,Russian Federation,No notes,643,B,50.92887186996419,Female,1990,True,False,False,False,False
+131,Slovakia,No notes,703,B,55.95834846833757,Female,1990,True,False,False,False,False
+132,Ukraine,No notes,804,B,57.15019179099714,Female,1990,True,False,False,False,False
+133,Northern Europe,No notes,924,F,52.20268132096325,Female,1990,False,False,False,False,True
+134,Channel Islands,14,830,B,52.959779435614664,Female,1990,True,False,False,False,False
+135,Denmark,No notes,208,B,51.35359221732308,Female,1990,True,False,False,False,False
+136,Estonia,No notes,233,B,55.054359065647105,Female,1990,True,False,False,False,False
+137,Faeroe Islands,No notes,234,B,43.05717619603267,Female,1990,True,False,False,False,False
+138,Finland,15,246,B,49.913840803098566,Female,1990,True,False,False,False,False
+139,Iceland,No notes,352,B,55.67612687813022,Female,1990,True,False,False,False,False
+140,Ireland,No notes,372,B,50.827992507490315,Female,1990,True,False,False,False,False
+141,Isle of Man,No notes,833,B,52.9149529753516,Female,1990,True,False,False,False,False
+142,Latvia,No notes,428,B,54.985007902391146,Female,1990,True,False,False,False,False
+143,Lithuania,No notes,440,B,52.87581100504498,Female,1990,True,False,False,False,False
+144,Norway,16,578,B,48.30284494799753,Female,1990,True,False,False,False,False
+145,Sweden,No notes,752,B,51.43242554518635,Female,1990,True,False,False,False,False
+146,United Kingdom of Great Britain and Northern Ireland,No notes,826,B,51.881907335480015,Female,1990,True,False,False,False,False
+147,Southern Europe,No notes,925,F,52.474764160615464,Female,1990,False,False,False,False,True
+148,Albania,No notes,8,B,53.67730598518473,Female,1990,True,False,False,False,False
+149,Andorra,No notes,20,C,46.509356364384125,Female,1990,False,True,False,False,False
+150,Bosnia and Herzegovina,No notes,70,I R,52.61071428571429,Female,1990,False,False,False,True,False
+151,Croatia,No notes,191,B R,53.194527993134756,Female,1990,True,False,True,False,False
+152,Gibraltar,No notes,292,B,48.00780801469744,Female,1990,True,False,False,False,False
+153,Greece,No notes,300,B,46.60780180509562,Female,1990,True,False,False,False,False
+154,Holy See,17,336,I,51.16883116883116,Female,1990,False,False,False,True,False
+155,Italy,No notes,380,B,55.01992341510651,Female,1990,True,False,False,False,False
+156,Malta,No notes,470,B,53.492074020030515,Female,1990,True,False,False,False,False
+157,Montenegro,No notes,499,B,..,Female,1990,True,False,False,False,False
+158,Portugal,No notes,620,B,51.828666626891426,Female,1990,True,False,False,False,False
+159,San Marino,No notes,674,B,47.79456193353474,Female,1990,True,False,False,False,False
+160,Serbia,18,688,B,52.944020791989445,Female,1990,True,False,False,False,False
+161,Slovenia,No notes,705,B,49.732980676898194,Female,1990,True,False,False,False,False
+162,Spain,19,724,B,52.47740702649083,Female,1990,True,False,False,False,False
+163,The former Yugoslav Republic of Macedonia,No notes,807,B,58.31388871371214,Female,1990,True,False,False,False,False
+164,Western Europe,No notes,926,F,47.61505371192171,Female,1990,False,False,False,False,True
+165,Austria,No notes,40,B,53.57174823729039,Female,1990,True,False,False,False,False
+166,Belgium,No notes,56,C,46.110481112954375,Female,1990,False,True,False,False,False
+167,France,No notes,250,B,49.13955905337167,Female,1990,True,False,False,False,False
+168,Germany,No notes,276,B,44.52446783546526,Female,1990,True,False,False,False,False
+169,Liechtenstein,No notes,438,B,45.38785989363653,Female,1990,True,False,False,False,False
+170,Luxembourg,No notes,442,B,50.73421503581,Female,1990,True,False,False,False,False
+171,Monaco,No notes,492,B,53.480033400461714,Female,1990,True,False,False,False,False
+172,Netherlands,No notes,528,B,49.897527030787565,Female,1990,True,False,False,False,False
+173,Switzerland,No notes,756,B,49.64310391142025,Female,1990,True,False,False,False,False
+174,Latin America and the Caribbean,No notes,904,F,49.83021671114999,Female,1990,False,False,False,False,True
+175,Caribbean,No notes,915,F,47.975637803995056,Female,1990,False,False,False,False,True
+176,Anguilla,No notes,660,B,51.050583657587545,Female,1990,True,False,False,False,False
+177,Antigua and Barbuda,No notes,28,B,51.99102169756422,Female,1990,True,False,False,False,False
+178,Aruba,No notes,533,B,55.49016892827472,Female,1990,True,False,False,False,False
+179,Bahamas,No notes,44,B,48.512381307019176,Female,1990,True,False,False,False,False
+180,Barbados,No notes,52,B,58.104395604395606,Female,1990,True,False,False,False,False
+181,"Bonaire, Sint Eustatius and Saba",20,535,B,55.07159593855767,Female,1990,True,False,False,False,False
+182,British Virgin Islands,No notes,92,B,48.64965774735532,Female,1990,True,False,False,False,False
+183,Cayman Islands,No notes,136,C,50.76169170128901,Female,1990,False,True,False,False,False
+184,Cuba,No notes,192,B,49.99855303139922,Female,1990,True,False,False,False,False
+185,Curaçao,No notes,531,B,..,Female,1990,True,False,False,False,False
+186,Dominica,No notes,212,B,48.03493449781659,Female,1990,True,False,False,False,False
+187,Dominican Republic,No notes,214,B,37.60042040041078,Female,1990,True,False,False,False,False
+188,Grenada,No notes,308,B,50.5981703026038,Female,1990,True,False,False,False,False
+189,Guadeloupe,21,312,B,50.38517530025476,Female,1990,True,False,False,False,False
+190,Haiti,No notes,332,B,44.42464892056173,Female,1990,True,False,False,False,False
+191,Jamaica,No notes,388,B,51.252747252747255,Female,1990,True,False,False,False,False
+192,Martinique,No notes,474,B,50.67562330448262,Female,1990,True,False,False,False,False
+193,Montserrat,No notes,500,B,48.8822652757079,Female,1990,True,False,False,False,False
+194,Puerto Rico,No notes,630,B,52.36107098589974,Female,1990,True,False,False,False,False
+195,Saint Kitts and Nevis,No notes,659,B,48.84735202492212,Female,1990,True,False,False,False,False
+196,Saint Lucia,No notes,662,B,50.688030160226205,Female,1990,True,False,False,False,False
+197,Saint Vincent and the Grenadines,No notes,670,B,51.43576826196473,Female,1990,True,False,False,False,False
+198,Sint Maarten (Dutch part),No notes,534,B,..,Female,1990,True,False,False,False,False
+199,Trinidad and Tobago,No notes,780,B,53.56254687561679,Female,1990,True,False,False,False,False
+200,Turks and Caicos Islands,No notes,796,B,48.24180165942315,Female,1990,True,False,False,False,False
+201,United States Virgin Islands,No notes,850,B,52.2339811429671,Female,1990,True,False,False,False,False
+202,Central America,No notes,916,F,50.63514017894859,Female,1990,False,False,False,False,True
+203,Belize,No notes,84,B R ,46.08275226943823,Female,1990,False,False,False,False,False
+204,Costa Rica,No notes,188,B R,49.19569569090195,Female,1990,True,False,True,False,False
+205,El Salvador,No notes,222,B R,53.08699324324324,Female,1990,True,False,True,False,False
+206,Guatemala,No notes,320,B R,57.384288779483605,Female,1990,True,False,True,False,False
+207,Honduras,No notes,340,B R,49.1267384800849,Female,1990,True,False,True,False,False
+208,Mexico,No notes,484,B R,49.92582732716761,Female,1990,True,False,True,False,False
+209,Nicaragua,No notes,558,B R,49.63907196832524,Female,1990,True,False,True,False,False
+210,Panama,No notes,591,B,47.16945046538314,Female,1990,True,False,False,False,False
+211,South America,No notes,931,F,49.94380451160821,Female,1990,False,False,False,False,True
+212,Argentina,No notes,32,B,52.23220048984223,Female,1990,True,False,False,False,False
+213,Bolivia (Plurinational State of),No notes,68,B,49.09162395943491,Female,1990,True,False,False,False,False
+214,Brazil,No notes,76,B,46.63269535902179,Female,1990,True,False,False,False,False
+215,Chile,No notes,152,B,49.259076659752004,Female,1990,True,False,False,False,False
+216,Colombia,No notes,170,B,49.06930579130585,Female,1990,True,False,False,False,False
+217,Ecuador,No notes,218,B R,51.017632177771,Female,1990,True,False,True,False,False
+218,Falkland Islands (Malvinas),No notes,238,B,42.92397660818714,Female,1990,True,False,False,False,False
+219,French Guiana,No notes,254,B,45.22574357039552,Female,1990,True,False,False,False,False
+220,Guyana,No notes,328,B,46.275946275946275,Female,1990,True,False,False,False,False
+221,Paraguay,No notes,600,B,47.51179269363501,Female,1990,True,False,False,False,False
+222,Peru,No notes,604,B,49.96078431372549,Female,1990,True,False,False,False,False
+223,Suriname,No notes,740,C,46.031834063557206,Female,1990,False,True,False,False,False
+224,Uruguay,No notes,858,B,53.28998328509111,Female,1990,True,False,False,False,False
+225,Venezuela (Bolivarian Republic of),No notes,862,B,49.504931176214065,Female,1990,True,False,False,False,False
+226,Northern America,No notes,905,F,51.11534210375153,Female,1990,False,False,False,False,True
+227,Bermuda,No notes,60,B,51.814066186316396,Female,1990,True,False,False,False,False
+228,Canada,No notes,124,B,51.31555080887209,Female,1990,True,False,False,False,False
+229,Greenland,No notes,304,B,30.278249787595584,Female,1990,True,False,False,False,False
+230,Saint Pierre and Miquelon,No notes,666,B,49.044585987261144,Female,1990,True,False,False,False,False
+231,United States of America,No notes,840,B,51.0860940072064,Female,1990,True,False,False,False,False
+232,Oceania,No notes,909,F,48.95128959693992,Female,1990,False,False,False,False,True
+233,Australia and New Zealand,No notes,927,F,49.22228978418424,Female,1990,False,False,False,False,True
+234,Australia,22,36,B,49.10018752466681,Female,1990,True,False,False,False,False
+235,New Zealand,No notes,554,B,50.154522659140966,Female,1990,True,False,False,False,False
+236,Melanesia,No notes,928,F,44.415253297860545,Female,1990,False,False,False,False,True
+237,Fiji,No notes,242,B,48.45290973424678,Female,1990,True,False,False,False,False
+238,New Caledonia,No notes,540,B,44.56241870835877,Female,1990,True,False,False,False,False
+239,Papua New Guinea,No notes,598,C R,42.56418092909535,Female,1990,False,True,True,False,False
+240,Solomon Islands,No notes,90,B,44.41552295314718,Female,1990,True,False,False,False,False
+241,Vanuatu,No notes,548,B,45.01733102253033,Female,1990,True,False,False,False,False
+242,Micronesia,No notes,954,F,44.15108884178069,Female,1990,False,False,False,False,True
+243,Guam,No notes,316,B,43.56820299620099,Female,1990,True,False,False,False,False
+244,Kiribati,No notes,296,B,48.797409805735434,Female,1990,True,False,False,False,False
+245,Marshall Islands,No notes,584,B,37.737478411053544,Female,1990,True,False,False,False,False
+246,Micronesia (Federated States of),No notes,583,B,43.0393487109905,Female,1990,True,False,False,False,False
+247,Nauru,No notes,520,C,46.50088809946714,Female,1990,False,True,False,False,False
+248,Northern Mariana Islands,No notes,580,B,46.3731057045087,Female,1990,True,False,False,False,False
+249,Palau,No notes,585,B,35.73723670117815,Female,1990,True,False,False,False,False
+250,Polynesia,No notes,957,F,44.15857854465157,Female,1990,False,False,False,False,True
+251,American Samoa,No notes,16,B,47.49330451534088,Female,1990,True,False,False,False,False
+252,Cook Islands,No notes,184,B,44.221105527638194,Female,1990,True,False,False,False,False
+253,French Polynesia,No notes,258,B,40.20905923344948,Female,1990,True,False,False,False,False
+254,Niue,No notes,570,B,46.85466377440347,Female,1990,True,False,False,False,False
+255,Samoa,No notes,882,B,47.244563598451,Female,1990,True,False,False,False,False
+256,Tokelau,No notes,772,B,44.44444444444444,Female,1990,True,False,False,False,False
+257,Tonga,No notes,776,B,48.8835451734799,Female,1990,True,False,False,False,False
+258,Tuvalu,No notes,798,C,43.39622641509434,Female,1990,False,True,False,False,False
+259,Wallis and Futuna Islands,No notes,876,B,48.21683309557774,Female,1990,True,False,False,False,False
+260,Sub-Saharan Africa,e,947,F,47.55595752441993,Female,1995,False,False,False,False,True
+261,Africa,No notes,903,F,47.306127251248625,Female,1995,False,False,False,False,True
+262,Eastern Africa,No notes,910,F,48.53303235563364,Female,1995,False,False,False,False,True
+263,Burundi,No notes,108,B R,51.27975735031567,Female,1995,True,False,True,False,False
+264,Comoros,No notes,174,B,52.55039816342636,Female,1995,True,False,False,False,False
+265,Djibouti,No notes,262,B R,47.40513560647062,Female,1995,True,False,True,False,False
+266,Eritrea,No notes,232,I,47.24193548387097,Female,1995,False,False,False,True,False
+267,Ethiopia,No notes,231,B R,47.4389766316687,Female,1995,True,False,True,False,False
+268,Kenya,No notes,404,B R,47.92862972630082,Female,1995,True,False,True,False,False
+269,Madagascar,No notes,450,C,43.8022382773764,Female,1995,False,True,False,False,False
+270,Malawi,No notes,454,B R,51.90957851869019,Female,1995,True,False,True,False,False
+271,Mauritius,1,480,C,56.91979180568531,Female,1995,False,True,False,False,False
+272,Mayotte,No notes,175,B,44.2202462380301,Female,1995,True,False,False,False,False
+273,Mozambique,No notes,508,B R,45.79093761886649,Female,1995,True,False,True,False,False
+274,Réunion,No notes,638,B,47.238818543527,Female,1995,True,False,False,False,False
+275,Rwanda,No notes,646,B R,49.42924528301887,Female,1995,True,False,True,False,False
+276,Seychelles,No notes,690,B,41.31701631701632,Female,1995,True,False,False,False,False
+277,Somalia,No notes,706,I R,47.344702207200285,Female,1995,False,False,False,True,False
+278,South Sudan,No notes,728,B R,..,Female,1995,True,False,True,False,False
+279,Uganda,No notes,800,B R,49.36182282310674,Female,1995,True,False,True,False,False
+280,United Republic of Tanzania,2,834,B R,50.536371551558126,Female,1995,True,False,True,False,False
+281,Zambia,No notes,894,B R,48.706709558071196,Female,1995,True,False,True,False,False
+282,Zimbabwe,No notes,716,B R,42.9505642053123,Female,1995,True,False,True,False,False
+283,Middle Africa,No notes,911,F,49.1294006140339,Female,1995,False,False,False,False,True
+284,Angola,No notes,24,B R,47.86878657724864,Female,1995,True,False,True,False,False
+285,Cameroon,No notes,120,B,45.28201762913993,Female,1995,True,False,False,False,False
+286,Central African Republic,No notes,140,C,46.871991335044925,Female,1995,False,True,False,False,False
+287,Chad,No notes,148,B R,46.08635470619753,Female,1995,True,False,True,False,False
+288,Congo,No notes,178,B,49.99765178594725,Female,1995,True,False,False,False,False
+289,Democratic Republic of the Congo,No notes,180,B R,50.39089953950631,Female,1995,True,False,True,False,False
+290,Equatorial Guinea,No notes,226,C,46.817305042711496,Female,1995,False,True,False,False,False
+291,Gabon,No notes,266,C,42.92746384959339,Female,1995,False,True,False,False,False
+292,Sao Tome and Principe,No notes,678,C,48.379254457050244,Female,1995,False,True,False,False,False
+293,Northern Africa,No notes,912,F,46.87803846966815,Female,1995,False,False,False,False,True
+294,Algeria,No notes,12,C R,45.160896379068205,Female,1995,False,True,True,False,False
+295,Egypt,No notes,818,B R,46.96475098080321,Female,1995,True,False,True,False,False
+296,Libya,No notes,434,C,40.77131570089816,Female,1995,False,True,False,False,False
+297,Morocco,No notes,504,C,47.84749801429706,Female,1995,False,True,False,False,False
+298,Sudan,3,729,B R,50.09464626788026,Female,1995,True,False,True,False,False
+299,Tunisia,No notes,788,C,49.705548366651705,Female,1995,False,True,False,False,False
+300,Western Sahara,No notes,732,I,44.764135162261624,Female,1995,False,False,False,True,False
+301,Southern Africa,No notes,913,F,40.06337792950884,Female,1995,False,False,False,False,True
+302,Botswana,No notes,72,C,41.45339573790082,Female,1995,False,True,False,False,False
+303,Lesotho,No notes,426,C R,46.87673514714048,Female,1995,False,True,True,False,False
+304,Namibia,No notes,516,B,46.85885656831814,Female,1995,True,False,False,False,False
+305,South Africa,No notes,710,B R,39.12345699920403,Female,1995,True,False,True,False,False
+306,Swaziland,No notes,748,B R,42.2436179137869,Female,1995,True,False,True,False,False
+307,Western Africa,No notes,914,F,47.03526799097055,Female,1995,False,False,False,False,True
+308,Benin,No notes,204,C B R,46.787207895514,Female,1995,False,False,False,True,False
+309,Burkina Faso,No notes,854,B R,51.910322687467804,Female,1995,True,False,True,False,False
+310,Cabo Verde,No notes,132,B,48.982864014430305,Female,1995,True,False,False,False,False
+311,Côte d'Ivoire,No notes,384,C B,44.58132705064646,Female,1995,False,False,False,False,False
+312,Gambia,No notes,270,B,45.623964477433894,Female,1995,True,False,False,False,False
+313,Ghana,No notes,288,B,49.611078816350904,Female,1995,True,False,False,False,False
+314,Guinea,No notes,324,C R,50.09238158565794,Female,1995,False,True,True,False,False
+315,Guinea-Bissau,No notes,624,B R,50.52752047494725,Female,1995,True,False,True,False,False
+316,Liberia,No notes,430,B,46.468453177217434,Female,1995,True,False,False,False,False
+317,Mali,No notes,466,B R,48.423549978148216,Female,1995,True,False,True,False,False
+318,Mauritania,No notes,478,C R,47.5056385520645,Female,1995,False,True,True,False,False
+319,Niger,No notes,562,B R,52.225015239830405,Female,1995,True,False,True,False,False
+320,Nigeria,No notes,566,C R,44.256683059790625,Female,1995,False,True,True,False,False
+321,Saint Helena,4,654,B,44.67005076142132,Female,1995,True,False,False,False,False
+322,Senegal,No notes,686,B R,48.83957810425025,Female,1995,True,False,True,False,False
+323,Sierra Leone,No notes,694,B R,43.36079108698541,Female,1995,True,False,True,False,False
+324,Togo,No notes,768,C R,50.06349487611116,Female,1995,False,True,True,False,False
+325,Asia,No notes,935,F,45.86792084982832,Female,1995,False,False,False,False,True
+326,Central Asia,No notes,5500,F,55.25350868033891,Female,1995,False,False,False,False,True
+327,Kazakhstan,No notes,398,B,53.963207765195286,Female,1995,True,False,False,False,False
+328,Kyrgyzstan,No notes,417,B,58.20523774436798,Female,1995,True,False,False,False,False
+329,Tajikistan,No notes,762,B,56.377692358481625,Female,1995,True,False,False,False,False
+330,Turkmenistan,No notes,795,B,56.5547493283132,Female,1995,True,False,False,False,False
+331,Uzbekistan,No notes,860,B,56.53179970342006,Female,1995,True,False,False,False,False
+332,Eastern Asia,No notes,906,F,51.34618088537558,Female,1995,False,False,False,False,True
+333,China,5,156,C,49.56603150624833,Female,1995,False,True,False,False,False
+334,"China, Hong Kong Special Administrative Region",6,344,B,51.915542937673244,Female,1995,True,False,False,False,False
+335,"China, Macao Special Administrative Region",7,446,B,53.91434630483397,Female,1995,True,False,False,False,False
+336,Democratic People's Republic of Korea,No notes,408,I,50.02703241043736,Female,1995,False,False,False,True,False
+337,Japan,No notes,392,C,51.30812680065194,Female,1995,False,True,False,False,False
+338,Mongolia,No notes,496,C,46.6729525862069,Female,1995,False,True,False,False,False
+339,Republic of Korea,No notes,410,C,42.88458744329464,Female,1995,False,True,False,False,False
+340,South-Eastern Asia,No notes,920,F,48.20025745549325,Female,1995,False,False,False,False,True
+341,Brunei Darussalam,No notes,96,B,43.55973002312739,Female,1995,True,False,False,False,False
+342,Cambodia,No notes,116,B,50.81752141385666,Female,1995,True,False,False,False,False
+343,Indonesia,No notes,360,B R,49.44057420308212,Female,1995,True,False,True,False,False
+344,Lao People's Democratic Republic,No notes,418,C R,48.14673127603503,Female,1995,False,True,True,False,False
+345,Malaysia,8,458,C R,42.92913775592937,Female,1995,False,True,True,False,False
+346,Myanmar,No notes,104,C,45.902360486701916,Female,1995,False,True,False,False,False
+347,Philippines,No notes,608,C R,48.142467867563724,Female,1995,False,True,True,False,False
+348,Singapore,No notes,702,B,53.96725339185793,Female,1995,True,False,False,False,False
+349,Thailand,No notes,764,B R,47.35340611569431,Female,1995,True,False,True,False,False
+350,Timor-Leste,No notes,626,B,51.11362003489685,Female,1995,True,False,False,False,False
+351,Viet Nam,No notes,704,C R,45.013850415512465,Female,1995,False,True,True,False,False
+352,Southern Asia,No notes,5501,F,45.36734915077665,Female,1995,False,False,False,False,True
+353,Afghanistan,No notes,4,B,45.32451553368194,Female,1995,True,False,False,False,False
+354,Bangladesh,No notes,50,B R,13.858366274933537,Female,1995,True,False,True,False,False
+355,Bhutan,No notes,64,B,18.475618475618475,Female,1995,True,False,False,False,False
+356,India,No notes,356,B R,48.088975089748075,Female,1995,True,False,True,False,False
+357,Iran (Islamic Republic of),No notes,364,B R,41.927678689354956,Female,1995,True,False,True,False,False
+358,Maldives,No notes,462,C R,50.06482982171799,Female,1995,False,True,True,False,False
+359,Nepal,No notes,524,B R,68.54822702741859,Female,1995,True,False,True,False,False
+360,Pakistan,No notes,586,B R,46.82313395332308,Female,1995,True,False,True,False,False
+361,Sri Lanka,No notes,144,B R,44.44553267549766,Female,1995,True,False,True,False,False
+362,Western Asia,No notes,922,F,41.04672512046756,Female,1995,False,False,False,False,True
+363,Armenia,No notes,51,B R,58.934378867981074,Female,1995,True,False,True,False,False
+364,Azerbaijan,9,31,B R,56.54692359112972,Female,1995,True,False,True,False,False
+365,Bahrain,No notes,48,C,29.979755217764918,Female,1995,False,True,False,False,False
+366,Cyprus,10,196,B,55.435010736022996,Female,1995,True,False,False,False,False
+367,Georgia,11,268,B,56.49057281379063,Female,1995,True,False,False,False,False
+368,Iraq,No notes,368,C R,42.43407199438484,Female,1995,False,True,True,False,False
+369,Israel,No notes,376,B R,53.669403549298764,Female,1995,True,False,True,False,False
+370,Jordan,No notes,400,C R,48.947594068559106,Female,1995,False,True,True,False,False
+371,Kuwait,No notes,414,C R,35.84799241610753,Female,1995,False,True,True,False,False
+372,Lebanon,No notes,422,B R,48.937782651080134,Female,1995,True,False,True,False,False
+373,Oman,No notes,512,C,22.644414918751842,Female,1995,False,True,False,False,False
+374,Qatar,No notes,634,C,25.354671208522618,Female,1995,False,True,False,False,False
+375,Saudi Arabia,No notes,682,C R,33.30697354638236,Female,1995,False,True,True,False,False
+376,State of Palestine,12,275,B,54.45598668403326,Female,1995,True,False,False,False,False
+377,Syrian Arab Republic,No notes,760,C R,49.05972718845186,Female,1995,False,True,True,False,False
+378,Turkey,No notes,792,B R,51.16336244925681,Female,1995,True,False,True,False,False
+379,United Arab Emirates,No notes,784,C R,28.187101930905783,Female,1995,False,True,True,False,False
+380,Yemen,No notes,887,C R,42.98648500164817,Female,1995,False,True,True,False,False
+381,Europe,No notes,908,F,51.486536550968296,Female,1995,False,False,False,False,True
+382,Eastern Europe,No notes,923,F,53.04406964652192,Female,1995,False,False,False,False,True
+383,Belarus,No notes,112,B,54.20085612021425,Female,1995,True,False,False,False,False
+384,Bulgaria,No notes,100,B,57.940496377370124,Female,1995,True,False,False,False,False
+385,Czech Republic,No notes,203,C,46.66650562829122,Female,1995,False,True,False,False,False
+386,Hungary,No notes,348,B R,54.31829043490134,Female,1995,True,False,True,False,False
+387,Poland,No notes,616,B,58.11770193578481,Female,1995,True,False,False,False,False
+388,Republic of Moldova,13,498,B,55.966135756512934,Female,1995,True,False,False,False,False
+389,Romania,No notes,642,B,53.13728829876256,Female,1995,True,False,False,False,False
+390,Russian Federation,No notes,643,B,50.327032766652025,Female,1995,True,False,False,False,False
+391,Slovakia,No notes,703,B,55.95833994489563,Female,1995,True,False,False,False,False
+392,Ukraine,No notes,804,B,57.150029697012705,Female,1995,True,False,False,False,False
+393,Northern Europe,No notes,924,F,52.68579189706378,Female,1995,False,False,False,False,True
+394,Channel Islands,14,830,B,52.96022736661213,Female,1995,True,False,False,False,False
+395,Denmark,No notes,208,B,51.43843118624385,Female,1995,True,False,False,False,False
+396,Estonia,No notes,233,B,56.843755443302555,Female,1995,True,False,False,False,False
+397,Faeroe Islands,No notes,234,B,45.689655172413794,Female,1995,True,False,False,False,False
+398,Finland,15,246,B,50.29028667689438,Female,1995,True,False,False,False,False
+399,Iceland,No notes,352,B,55.04003768252473,Female,1995,True,False,False,False,False
+400,Ireland,No notes,372,B,52.3632388978016,Female,1995,True,False,False,False,False
+401,Isle of Man,No notes,833,B,52.42639483814998,Female,1995,True,False,False,False,False
+402,Latvia,No notes,428,B,56.47295170165753,Female,1995,True,False,False,False,False
+403,Lithuania,No notes,440,B,52.97985649902955,Female,1995,True,False,False,False,False
+404,Norway,16,578,B,49.75525284823962,Female,1995,True,False,False,False,False
+405,Sweden,No notes,752,B,51.823247744176946,Female,1995,True,False,False,False,False
+406,United Kingdom of Great Britain and Northern Ireland,No notes,826,B,52.380951234967064,Female,1995,True,False,False,False,False
+407,Southern Europe,No notes,925,F,52.271849039581994,Female,1995,False,False,False,False,True
+408,Albania,No notes,8,B,53.35370126411975,Female,1995,True,False,False,False,False
+409,Andorra,No notes,20,C,47.06724244293646,Female,1995,False,True,False,False,False
+410,Bosnia and Herzegovina,No notes,70,I R,52.33605849501986,Female,1995,False,False,False,True,False
+411,Croatia,No notes,191,B R,53.16124821053725,Female,1995,True,False,True,False,False
+412,Gibraltar,No notes,292,B,49.9343753728672,Female,1995,True,False,False,False,False
+413,Greece,No notes,300,B,48.12566299469604,Female,1995,True,False,False,False,False
+414,Holy See,17,336,I,51.47625160462132,Female,1995,False,False,False,True,False
+415,Italy,No notes,380,B,54.39019828119489,Female,1995,True,False,False,False,False
+416,Malta,No notes,470,B,52.84103720405863,Female,1995,True,False,False,False,False
+417,Montenegro,No notes,499,B,..,Female,1995,True,False,False,False,False
+418,Portugal,No notes,620,B,51.327647882407256,Female,1995,True,False,False,False,False
+419,San Marino,No notes,674,B,46.98004919376879,Female,1995,True,False,False,False,False
+420,Serbia,18,688,B,54.056592846001635,Female,1995,True,False,False,False,False
+421,Slovenia,No notes,705,B,48.25391729112081,Female,1995,True,False,False,False,False
+422,Spain,19,724,B,51.070468900572216,Female,1995,True,False,False,False,False
+423,The former Yugoslav Republic of Macedonia,No notes,807,B,58.313746650448586,Female,1995,True,False,False,False,False
+424,Western Europe,No notes,926,F,48.944057333644864,Female,1995,False,False,False,False,True
+425,Austria,No notes,40,B,52.69803205522895,Female,1995,True,False,False,False,False
+426,Belgium,No notes,56,C,47.12711713156771,Female,1995,False,True,False,False,False
+427,France,No notes,250,B,49.965727621565925,Female,1995,True,False,False,False,False
+428,Germany,No notes,276,B,47.773513391420565,Female,1995,True,False,False,False,False
+429,Liechtenstein,No notes,438,B,46.90105927428443,Female,1995,True,False,False,False,False
+430,Luxembourg,No notes,442,B,50.603460580781245,Female,1995,True,False,False,False,False
+431,Monaco,No notes,492,B,52.730294396961064,Female,1995,True,False,False,False,False
+432,Netherlands,No notes,528,B,50.35998585610668,Female,1995,True,False,False,False,False
+433,Switzerland,No notes,756,B,47.996489114021976,Female,1995,True,False,False,False,False
+434,Latin America and the Caribbean,No notes,904,F,49.96341849599082,Female,1995,False,False,False,False,True
+435,Caribbean,No notes,915,F,48.32493288299992,Female,1995,False,False,False,False,True
+436,Anguilla,No notes,660,B,52.246005426590294,Female,1995,True,False,False,False,False
+437,Antigua and Barbuda,No notes,28,B,54.15384615384615,Female,1995,True,False,False,False,False
+438,Aruba,No notes,533,B,55.22133429110173,Female,1995,True,False,False,False,False
+439,Bahamas,No notes,44,B,47.494787388639665,Female,1995,True,False,False,False,False
+440,Barbados,No notes,52,B,57.15756558877364,Female,1995,True,False,False,False,False
+441,"Bonaire, Sint Eustatius and Saba",20,535,B,55.44038998532822,Female,1995,True,False,False,False,False
+442,British Virgin Islands,No notes,92,B,49.890503683057936,Female,1995,True,False,False,False,False
+443,Cayman Islands,No notes,136,C,49.95810055865922,Female,1995,False,True,False,False,False
+444,Cuba,No notes,192,B,52.04108909000649,Female,1995,True,False,False,False,False
+445,Curaçao,No notes,531,B,..,Female,1995,True,False,False,False,False
+446,Dominica,No notes,212,B,47.99743671900032,Female,1995,True,False,False,False,False
+447,Dominican Republic,No notes,214,B,38.51153902053615,Female,1995,True,False,False,False,False
+448,Grenada,No notes,308,B,50.46897546897547,Female,1995,True,False,False,False,False
+449,Guadeloupe,21,312,B,51.388032078963604,Female,1995,True,False,False,False,False
+450,Haiti,No notes,332,B,43.73942470389171,Female,1995,True,False,False,False,False
+451,Jamaica,No notes,388,B,50.50411658521552,Female,1995,True,False,False,False,False
+452,Martinique,No notes,474,B,52.207128908345666,Female,1995,True,False,False,False,False
+453,Montserrat,No notes,500,B,48.82133995037221,Female,1995,True,False,False,False,False
+454,Puerto Rico,No notes,630,B,52.45350773663209,Female,1995,True,False,False,False,False
+455,Saint Kitts and Nevis,No notes,659,B,48.30508474576271,Female,1995,True,False,False,False,False
+456,Saint Lucia,No notes,662,B,50.223713646532445,Female,1995,True,False,False,False,False
+457,Saint Vincent and the Grenadines,No notes,670,B,51.36638452237001,Female,1995,True,False,False,False,False
+458,Sint Maarten (Dutch part),No notes,534,B,..,Female,1995,True,False,False,False,False
+459,Trinidad and Tobago,No notes,780,B,53.68308909857807,Female,1995,True,False,False,False,False
+460,Turks and Caicos Islands,No notes,796,B,48.245489416110246,Female,1995,True,False,False,False,False
+461,United States Virgin Islands,No notes,850,B,52.5082502166258,Female,1995,True,False,False,False,False
+462,Central America,No notes,916,F,50.478398911092015,Female,1995,False,False,False,False,True
+463,Belize,No notes,84,B R ,47.640973509537766,Female,1995,False,False,False,False,False
+464,Costa Rica,No notes,188,B R,49.357237562690955,Female,1995,True,False,True,False,False
+465,El Salvador,No notes,222,B R,53.0465133925184,Female,1995,True,False,True,False,False
+466,Guatemala,No notes,320,B R,57.15868056444797,Female,1995,True,False,True,False,False
+467,Honduras,No notes,340,B R,49.09262456337576,Female,1995,True,False,True,False,False
+468,Mexico,No notes,484,B R,49.931414090969554,Female,1995,True,False,True,False,False
+469,Nicaragua,No notes,558,B R,49.7952590255081,Female,1995,True,False,True,False,False
+470,Panama,No notes,591,B,48.14250225835592,Female,1995,True,False,False,False,False
+471,South America,No notes,931,F,50.25180239489331,Female,1995,False,False,False,False,True
+472,Argentina,No notes,32,B,52.79031816178485,Female,1995,True,False,False,False,False
+473,Bolivia (Plurinational State of),No notes,68,B,48.79542572788822,Female,1995,True,False,False,False,False
+474,Brazil,No notes,76,B,46.57834798943304,Female,1995,True,False,False,False,False
+475,Chile,No notes,152,B,51.10696054544051,Female,1995,True,False,False,False,False
+476,Colombia,No notes,170,B,48.883049848984975,Female,1995,True,False,False,False,False
+477,Ecuador,No notes,218,B R,49.71110319480768,Female,1995,True,False,True,False,False
+478,Falkland Islands (Malvinas),No notes,238,B,41.244239631336406,Female,1995,True,False,False,False,False
+479,French Guiana,No notes,254,B,47.42838402418331,Female,1995,True,False,False,False,False
+480,Guyana,No notes,328,B,46.3948362720403,Female,1995,True,False,False,False,False
+481,Paraguay,No notes,600,B,47.543013346197135,Female,1995,True,False,False,False,False
+482,Peru,No notes,604,B,50.53761545512233,Female,1995,True,False,False,False,False
+483,Suriname,No notes,740,C,45.85990121239335,Female,1995,False,True,False,False,False
+484,Uruguay,No notes,858,B,53.51821723680267,Female,1995,True,False,False,False,False
+485,Venezuela (Bolivarian Republic of),No notes,862,B,49.659312389460354,Female,1995,True,False,False,False,False
+486,Northern America,No notes,905,F,50.80552867602305,Female,1995,False,False,False,False,True
+487,Bermuda,No notes,60,B,51.76301271288079,Female,1995,True,False,False,False,False
+488,Canada,No notes,124,B,51.56808799908238,Female,1995,True,False,False,False,False
+489,Greenland,No notes,304,B,31.543715846994537,Female,1995,True,False,False,False,False
+490,Saint Pierre and Miquelon,No notes,666,B,48.333333333333336,Female,1995,True,False,False,False,False
+491,United States of America,No notes,840,B,50.679649712789185,Female,1995,True,False,False,False,False
+492,Oceania,No notes,909,F,49.515825833892016,Female,1995,False,False,False,False,True
+493,Australia and New Zealand,No notes,927,F,49.756713856143904,Female,1995,False,False,False,False,True
+494,Australia,22,36,B,49.599959550529334,Female,1995,True,False,False,False,False
+495,New Zealand,No notes,554,B,50.86278513872349,Female,1995,True,False,False,False,False
+496,Melanesia,No notes,928,F,44.139091998182344,Female,1995,False,False,False,False,True
+497,Fiji,No notes,242,B,48.265518037074074,Female,1995,True,False,False,False,False
+498,New Caledonia,No notes,540,B,45.24300306903028,Female,1995,True,False,False,False,False
+499,Papua New Guinea,No notes,598,C R,40.84591063652091,Female,1995,False,True,True,False,False
+500,Solomon Islands,No notes,90,B,44.27955959789373,Female,1995,True,False,False,False,False
+501,Vanuatu,No notes,548,B,47.379114181227145,Female,1995,True,False,False,False,False
+502,Micronesia,No notes,954,F,46.88045025992737,Female,1995,False,False,False,False,True
+503,Guam,No notes,316,B,46.0145733674491,Female,1995,True,False,False,False,False
+504,Kiribati,No notes,296,B,48.762932973459286,Female,1995,True,False,False,False,False
+505,Marshall Islands,No notes,584,B,38.108108108108105,Female,1995,True,False,False,False,False
+506,Micronesia (Federated States of),No notes,583,B,36.59485338120886,Female,1995,True,False,False,False,False
+507,Nauru,No notes,520,C,46.449136276391556,Female,1995,False,True,False,False,False
+508,Northern Mariana Islands,No notes,580,B,51.053249320484305,Female,1995,True,False,False,False,False
+509,Palau,No notes,585,B,40.8717624763108,Female,1995,True,False,False,False,False
+510,Polynesia,No notes,957,F,44.74930942423728,Female,1995,False,False,False,False,True
+511,American Samoa,No notes,16,B,47.88726296649061,Female,1995,True,False,False,False,False
+512,Cook Islands,No notes,184,B,44.26656738644825,Female,1995,True,False,False,False,False
+513,French Polynesia,No notes,258,B,41.15303244005642,Female,1995,True,False,False,False,False
+514,Niue,No notes,570,B,46.458333333333336,Female,1995,True,False,False,False,False
+515,Samoa,No notes,882,B,47.784405624201106,Female,1995,True,False,False,False,False
+516,Tokelau,No notes,772,B,44.73684210526316,Female,1995,True,False,False,False,False
+517,Tonga,No notes,776,B,47.525962125839946,Female,1995,True,False,False,False,False
+518,Tuvalu,No notes,798,C,43.72623574144487,Female,1995,False,True,False,False,False
+519,Wallis and Futuna Islands,No notes,876,B,48.86904761904762,Female,1995,True,False,False,False,False
+520,Sub-Saharan Africa,e,947,F,47.43242446217665,Female,2000,False,False,False,False,True
+521,Africa,No notes,903,F,46.917597514537874,Female,2000,False,False,False,False,True
+522,Eastern Africa,No notes,910,F,48.79898943092535,Female,2000,False,False,False,False,True
+523,Burundi,No notes,108,B R,51.36912153341612,Female,2000,True,False,True,False,False
+524,Comoros,No notes,174,B,52.81542140734836,Female,2000,True,False,False,False,False
+525,Djibouti,No notes,262,B R,47.346950958639695,Female,2000,True,False,True,False,False
+526,Eritrea,No notes,232,I,47.06609017912292,Female,2000,False,False,False,True,False
+527,Ethiopia,No notes,231,B R,47.296788924800126,Female,2000,True,False,True,False,False
+528,Kenya,No notes,404,B R,50.139528763235916,Female,2000,True,False,True,False,False
+529,Madagascar,No notes,450,C,43.60477464848562,Female,2000,False,True,False,False,False
+530,Malawi,No notes,454,B R,52.05485340899321,Female,2000,True,False,True,False,False
+531,Mauritius,1,480,C,63.295374123399604,Female,2000,False,True,False,False,False
+532,Mayotte,No notes,175,B,48.220961428508595,Female,2000,True,False,False,False,False
+533,Mozambique,No notes,508,B R,47.279537255623346,Female,2000,True,False,True,False,False
+534,Réunion,No notes,638,B,48.08796360674626,Female,2000,True,False,False,False,False
+535,Rwanda,No notes,646,B R,49.38140349664051,Female,2000,True,False,True,False,False
+536,Seychelles,No notes,690,B,41.63370854882872,Female,2000,True,False,False,False,False
+537,Somalia,No notes,706,I R,47.120027878727534,Female,2000,False,False,False,True,False
+538,South Sudan,No notes,728,B R,..,Female,2000,True,False,True,False,False
+539,Uganda,No notes,800,B R,50.47683719787051,Female,2000,True,False,True,False,False
+540,United Republic of Tanzania,2,834,B R,49.25962636557564,Female,2000,True,False,True,False,False
+541,Zambia,No notes,894,B R,49.05454171817154,Female,2000,True,False,True,False,False
+542,Zimbabwe,No notes,716,B R,42.970824868732635,Female,2000,True,False,True,False,False
+543,Middle Africa,No notes,911,F,48.53516875800869,Female,2000,False,False,False,False,True
+544,Angola,No notes,24,B R,49.32115901795784,Female,2000,True,False,True,False,False
+545,Cameroon,No notes,120,B,45.4293883520227,Female,2000,True,False,False,False,False
+546,Central African Republic,No notes,140,C,46.865918124488985,Female,2000,False,True,False,False,False
+547,Chad,No notes,148,B R,46.13594085380396,Female,2000,True,False,True,False,False
+548,Congo,No notes,178,B,49.94590199408528,Female,2000,True,False,False,False,False
+549,Democratic Republic of the Congo,No notes,180,B R,50.95400645094554,Female,2000,True,False,True,False,False
+550,Equatorial Guinea,No notes,226,C,47.00022138587558,Female,2000,False,True,False,False,False
+551,Gabon,No notes,266,C,42.92814374319301,Female,2000,False,True,False,False,False
+552,Sao Tome and Principe,No notes,678,C,49.3241695303551,Female,2000,False,True,False,False,False
+553,Northern Africa,No notes,912,F,44.37175509771166,Female,2000,False,False,False,False,True
+554,Algeria,No notes,12,C R,45.160929191155894,Female,2000,False,True,True,False,False
+555,Egypt,No notes,818,B R,46.841201023914394,Female,2000,True,False,True,False,False
+556,Libya,No notes,434,C,34.9794514271213,Female,2000,False,True,False,False,False
+557,Morocco,No notes,504,C,48.64992269110382,Female,2000,False,True,False,False,False
+558,Sudan,3,729,B R,49.73730581643457,Female,2000,True,False,True,False,False
+559,Tunisia,No notes,788,C,49.176864402129176,Female,2000,False,True,False,False,False
+560,Western Sahara,No notes,732,I,44.14715719063545,Female,2000,False,False,False,True,False
+561,Southern Africa,No notes,913,F,40.94692525815788,Female,2000,False,False,False,False,True
+562,Botswana,No notes,72,C,42.36120846768541,Female,2000,False,True,False,False,False
+563,Lesotho,No notes,426,C R,45.92184206259121,Female,2000,False,True,True,False,False
+564,Namibia,No notes,516,B,46.0510554079894,Female,2000,True,False,False,False,False
+565,South Africa,No notes,710,B R,40.10610635590049,Female,2000,True,False,True,False,False
+566,Swaziland,No notes,748,B R,42.91402318967403,Female,2000,True,False,True,False,False
+567,Western Africa,No notes,914,F,46.945506260238936,Female,2000,False,False,False,False,True
+568,Benin,No notes,204,C B R,46.44133702235848,Female,2000,False,False,False,True,False
+569,Burkina Faso,No notes,854,B R,51.84995740704063,Female,2000,True,False,True,False,False
+570,Cabo Verde,No notes,132,B,47.82805840210393,Female,2000,True,False,False,False,False
+571,Côte d'Ivoire,No notes,384,C B,44.60756167461079,Female,2000,False,False,False,False,False
+572,Gambia,No notes,270,B,46.77778143046561,Female,2000,True,False,False,False,False
+573,Ghana,No notes,288,B,49.22834431970606,Female,2000,True,False,False,False,False
+574,Guinea,No notes,324,C R,50.16595991608267,Female,2000,False,True,True,False,False
+575,Guinea-Bissau,No notes,624,B R,50.34229828850856,Female,2000,True,False,True,False,False
+576,Liberia,No notes,430,B,45.92079964179419,Female,2000,True,False,False,False,False
+577,Mali,No notes,466,B R,48.40902493732682,Female,2000,True,False,True,False,False
+578,Mauritania,No notes,478,C R,45.676881776662135,Female,2000,False,True,True,False,False
+579,Niger,No notes,562,B R,52.40307541305415,Female,2000,True,False,True,False,False
+580,Nigeria,No notes,566,C R,44.61550128924617,Female,2000,False,True,True,False,False
+581,Saint Helena,4,654,B,46.913580246913575,Female,2000,True,False,False,False,False
+582,Senegal,No notes,686,B R,47.61040271495164,Female,2000,True,False,True,False,False
+583,Sierra Leone,No notes,694,B R,44.382691544263594,Female,2000,True,False,True,False,False
+584,Togo,No notes,768,C R,49.9017339782872,Female,2000,False,True,True,False,False
+585,Asia,No notes,935,F,45.585270531100875,Female,2000,False,False,False,False,True
+586,Central Asia,No notes,5500,F,55.325227937726865,Female,2000,False,False,False,False,True
+587,Kazakhstan,No notes,398,B,53.96318740640128,Female,2000,True,False,False,False,False
+588,Kyrgyzstan,No notes,417,B,58.20519665877738,Female,2000,True,False,False,False,False
+589,Tajikistan,No notes,762,B,56.08589014455367,Female,2000,True,False,False,False,False
+590,Turkmenistan,No notes,795,B,56.90212267389175,Female,2000,True,False,False,False,False
+591,Uzbekistan,No notes,860,B,56.90268635474115,Female,2000,True,False,False,False,False
+592,Eastern Asia,No notes,906,F,52.6883612539845,Female,2000,False,False,False,False,True
+593,China,5,156,C,49.98720558072885,Female,2000,False,True,False,False,False
+594,"China, Hong Kong Special Administrative Region",6,344,B,54.081192242242956,Female,2000,True,False,False,False,False
+595,"China, Macao Special Administrative Region",7,446,B,54.57014589415717,Female,2000,True,False,False,False,False
+596,Democratic People's Republic of Korea,No notes,408,I,50.9963242406655,Female,2000,False,False,False,True,False
+597,Japan,No notes,392,C,52.74560690443961,Female,2000,False,True,False,False,False
+598,Mongolia,No notes,496,C,44.382159395564216,Female,2000,False,True,False,False,False
+599,Republic of Korea,No notes,410,C,41.362039168147824,Female,2000,False,True,False,False,False
+600,South-Eastern Asia,No notes,920,F,49.16391523723252,Female,2000,False,False,False,False,True
+601,Brunei Darussalam,No notes,96,B,44.12332807177869,Female,2000,True,False,False,False,False
+602,Cambodia,No notes,116,B,50.96142656672485,Female,2000,True,False,False,False,False
+603,Indonesia,No notes,360,B R,47.55000735528058,Female,2000,True,False,True,False,False
+604,Lao People's Democratic Republic,No notes,418,C R,47.31182795698925,Female,2000,False,True,True,False,False
+605,Malaysia,8,458,C R,44.18265252035079,Female,2000,False,True,True,False,False
+606,Myanmar,No notes,104,C,46.79168664741712,Female,2000,False,True,False,False,False
+607,Philippines,No notes,608,C R,49.1019978308367,Female,2000,False,True,True,False,False
+608,Singapore,No notes,702,B,55.48753376326394,Female,2000,True,False,False,False,False
+609,Thailand,No notes,764,B R,48.50396042044138,Female,2000,True,False,True,False,False
+610,Timor-Leste,No notes,626,B,51.943029617053384,Female,2000,True,False,False,False,False
+611,Viet Nam,No notes,704,C R,42.16266694858512,Female,2000,False,True,True,False,False
+612,Southern Asia,No notes,5501,F,44.92342594131962,Female,2000,False,False,False,False,True
+613,Afghanistan,No notes,4,B,43.559413570083116,Female,2000,True,False,False,False,False
+614,Bangladesh,No notes,50,B R,13.85955197787525,Female,2000,True,False,True,False,False
+615,Bhutan,No notes,64,B,18.47403304602172,Female,2000,True,False,False,False,False
+616,India,No notes,356,B R,48.472627584666505,Female,2000,True,False,True,False,False
+617,Iran (Islamic Republic of),No notes,364,B R,40.71399401884225,Female,2000,True,False,True,False,False
+618,Maldives,No notes,462,C R,44.97637679019637,Female,2000,False,True,True,False,False
+619,Nepal,No notes,524,B R,66.29628081905558,Female,2000,True,False,True,False,False
+620,Pakistan,No notes,586,B R,46.19781573596001,Female,2000,True,False,True,False,False
+621,Sri Lanka,No notes,144,B R,45.25316455696203,Female,2000,True,False,True,False,False
+622,Western Asia,No notes,922,F,40.395448916480404,Female,2000,False,False,False,False,True
+623,Armenia,No notes,51,B R,58.93448852409181,Female,2000,True,False,True,False,False
+624,Azerbaijan,9,31,B R,56.90266837638151,Female,2000,True,False,True,False,False
+625,Bahrain,No notes,48,C,30.92274848450667,Female,2000,False,True,False,False,False
+626,Cyprus,10,196,B,56.6099705279984,Female,2000,True,False,False,False,False
+627,Georgia,11,268,B,56.90256175663312,Female,2000,True,False,False,False,False
+628,Iraq,No notes,368,C R,42.77924237026481,Female,2000,False,True,True,False,False
+629,Israel,No notes,376,B R,53.88603415205133,Female,2000,True,False,True,False,False
+630,Jordan,No notes,400,C R,49.0116165978074,Female,2000,False,True,True,False,False
+631,Kuwait,No notes,414,C R,32.468518321450105,Female,2000,False,True,True,False,False
+632,Lebanon,No notes,422,B R,49.01163638147935,Female,2000,True,False,True,False,False
+633,Oman,No notes,512,C,21.683333119523805,Female,2000,False,True,False,False,False
+634,Qatar,No notes,634,C,23.75749589237608,Female,2000,False,True,False,False,False
+635,Saudi Arabia,No notes,682,C R,33.16531731373733,Female,2000,False,True,True,False,False
+636,State of Palestine,12,275,B,54.74051787414336,Female,2000,True,False,False,False,False
+637,Syrian Arab Republic,No notes,760,C R,48.738815268547704,Female,2000,False,True,True,False,False
+638,Turkey,No notes,792,B R,51.91063285980938,Female,2000,True,False,True,False,False
+639,United Arab Emirates,No notes,784,C R,28.182369951056025,Female,2000,False,True,True,False,False
+640,Yemen,No notes,887,C R,44.47541726192551,Female,2000,False,True,True,False,False
+641,Europe,No notes,908,F,51.5991653736142,Female,2000,False,False,False,False,True
+642,Eastern Europe,No notes,923,F,52.51421055311016,Female,2000,False,False,False,False,True
+643,Belarus,No notes,112,B,54.200835539068656,Female,2000,True,False,False,False,False
+644,Bulgaria,No notes,100,B,57.93819188191882,Female,2000,True,False,False,False,False
+645,Czech Republic,No notes,203,C,45.99957425415215,Female,2000,False,True,False,False,False
+646,Hungary,No notes,348,B R,53.45487730546847,Female,2000,True,False,True,False,False
+647,Poland,No notes,616,B,59.00362435186386,Female,2000,True,False,False,False,False
+648,Republic of Moldova,13,498,B,55.965831140952595,Female,2000,True,False,False,False,False
+649,Romania,No notes,642,B,52.39978258985892,Female,2000,True,False,False,False,False
+650,Russian Federation,No notes,643,B,49.72519593418551,Female,2000,True,False,False,False,False
+651,Slovakia,No notes,703,B,55.959132467175365,Female,2000,True,False,False,False,False
+652,Ukraine,No notes,804,B,57.14986936156424,Female,2000,True,False,False,False,False
+653,Northern Europe,No notes,924,F,53.028835815538166,Female,2000,False,False,False,False,True
+654,Channel Islands,14,830,B,52.980513522340246,Female,2000,True,False,False,False,False
+655,Denmark,No notes,208,B,51.49207872224588,Female,2000,True,False,False,False,False
+656,Estonia,No notes,233,B,59.583507005675074,Female,2000,True,False,False,False,False
+657,Faeroe Islands,No notes,234,B,46.53492902866685,Female,2000,True,False,False,False,False
+658,Finland,15,246,B,50.464380373413206,Female,2000,True,False,False,False,False
+659,Iceland,No notes,352,B,54.650138434432414,Female,2000,True,False,False,False,False
+660,Ireland,No notes,372,B,50.66095757548096,Female,2000,True,False,False,False,False
+661,Isle of Man,No notes,833,B,51.98964155684324,Female,2000,True,False,False,False,False
+662,Latvia,No notes,428,B,58.70732580466691,Female,2000,True,False,False,False,False
+663,Lithuania,No notes,440,B,53.084069413142586,Female,2000,True,False,False,False,False
+664,Norway,16,578,B,50.476678976884145,Female,2000,True,False,False,False,False
+665,Sweden,No notes,752,B,52.16059406374589,Female,2000,True,False,False,False,False
+666,United Kingdom of Great Britain and Northern Ireland,No notes,826,B,52.88477251850623,Female,2000,True,False,False,False,False
+667,Southern Europe,No notes,925,F,51.963787941393,Female,2000,False,False,False,False,True
+668,Albania,No notes,8,B,53.073864006780106,Female,2000,True,False,False,False,False
+669,Andorra,No notes,20,C,47.582214207754,Female,2000,False,True,False,False,False
+670,Bosnia and Herzegovina,No notes,70,I R,52.15184685119105,Female,2000,False,False,False,True,False
+671,Croatia,No notes,191,B R,53.0456280390502,Female,2000,True,False,True,False,False
+672,Gibraltar,No notes,292,B,52.011422895455674,Female,2000,True,False,False,False,False
+673,Greece,No notes,300,B,49.64364264414189,Female,2000,True,False,False,False,False
+674,Holy See,17,336,I,51.84243964421855,Female,2000,False,False,False,True,False
+675,Italy,No notes,380,B,53.96632304089951,Female,2000,True,False,False,False,False
+676,Malta,No notes,470,B,52.190883323265645,Female,2000,True,False,False,False,False
+677,Montenegro,No notes,499,B,..,Female,2000,True,False,False,False,False
+678,Portugal,No notes,620,B,50.83150158410492,Female,2000,True,False,False,False,False
+679,San Marino,No notes,674,B,46.22991347342398,Female,2000,True,False,False,False,False
+680,Serbia,18,688,B,55.19262619884378,Female,2000,True,False,False,False,False
+681,Slovenia,No notes,705,B,47.10264416611117,Female,2000,True,False,False,False,False
+682,Spain,19,724,B,49.43187200753039,Female,2000,True,False,False,False,False
+683,The former Yugoslav Republic of Macedonia,No notes,807,B,58.31377073966498,Female,2000,True,False,False,False,False
+684,Western Europe,No notes,926,F,49.996763829780775,Female,2000,False,False,False,False,True
+685,Austria,No notes,40,B,52.00246450995287,Female,2000,True,False,False,False,False
+686,Belgium,No notes,56,C,48.00654816380722,Female,2000,False,True,False,False,False
+687,France,No notes,250,B,50.74171192272053,Female,2000,True,False,False,False,False
+688,Germany,No notes,276,B,49.918260851579475,Female,2000,True,False,False,False,False
+689,Liechtenstein,No notes,438,B,48.45960085254796,Female,2000,True,False,False,False,False
+690,Luxembourg,No notes,442,B,50.42146690518784,Female,2000,True,False,False,False,False
+691,Monaco,No notes,492,B,51.99889842566668,Female,2000,True,False,False,False,False
+692,Netherlands,No notes,528,B,50.826716835749586,Female,2000,True,False,False,False,False
+693,Switzerland,No notes,756,B,46.40447020415647,Female,2000,True,False,False,False,False
+694,Latin America and the Caribbean,No notes,904,F,50.084199447041144,Female,2000,False,False,False,False,True
+695,Caribbean,No notes,915,F,48.6237772240128,Female,2000,False,False,False,False,True
+696,Anguilla,No notes,660,B,52.990401181393054,Female,2000,True,False,False,False,False
+697,Antigua and Barbuda,No notes,28,B,55.285856703220496,Female,2000,True,False,False,False,False
+698,Aruba,No notes,533,B,55.09234653202232,Female,2000,True,False,False,False,False
+699,Bahamas,No notes,44,B,46.74384155373896,Female,2000,True,False,False,False,False
+700,Barbados,No notes,52,B,56.35730368702505,Female,2000,True,False,False,False,False
+701,"Bonaire, Sint Eustatius and Saba",20,535,B,55.74883418284351,Female,2000,True,False,False,False,False
+702,British Virgin Islands,No notes,92,B,50.721512688671424,Female,2000,True,False,False,False,False
+703,Cayman Islands,No notes,136,C,49.57149535137381,Female,2000,False,True,False,False,False
+704,Cuba,No notes,192,B,55.99955101582669,Female,2000,True,False,False,False,False
+705,Curaçao,No notes,531,B,..,Female,2000,True,False,False,False,False
+706,Dominica,No notes,212,B,47.48858447488584,Female,2000,True,False,False,False,False
+707,Dominican Republic,No notes,214,B,39.25722207693238,Female,2000,True,False,False,False,False
+708,Grenada,No notes,308,B,50.38827838827839,Female,2000,True,False,False,False,False
+709,Guadeloupe,21,312,B,52.183007164494875,Female,2000,True,False,False,False,False
+710,Haiti,No notes,332,B,43.233199132858466,Female,2000,True,False,False,False,False
+711,Jamaica,No notes,388,B,49.89179224110292,Female,2000,True,False,False,False,False
+712,Martinique,No notes,474,B,53.294061513616676,Female,2000,True,False,False,False,False
+713,Montserrat,No notes,500,B,48.637489677952104,Female,2000,True,False,False,False,False
+714,Puerto Rico,No notes,630,B,52.545924661585516,Female,2000,True,False,False,False,False
+715,Saint Kitts and Nevis,No notes,659,B,47.74314426843809,Female,2000,True,False,False,False,False
+716,Saint Lucia,No notes,662,B,49.83785974868261,Female,2000,True,False,False,False,False
+717,Saint Vincent and the Grenadines,No notes,670,B,51.26538193638264,Female,2000,True,False,False,False,False
+718,Sint Maarten (Dutch part),No notes,534,B,..,Female,2000,True,False,False,False,False
+719,Trinidad and Tobago,No notes,780,B,53.80451704069169,Female,2000,True,False,False,False,False
+720,Turks and Caicos Islands,No notes,796,B,48.25291181364393,Female,2000,True,False,False,False,False
+721,United States Virgin Islands,No notes,850,B,52.78302803342106,Female,2000,True,False,False,False,False
+722,Central America,No notes,916,F,49.9009098238768,Female,2000,False,False,False,False,True
+723,Belize,No notes,84,B R ,48.939377329532995,Female,2000,False,False,False,False,False
+724,Costa Rica,No notes,188,B R,49.573880995413994,Female,2000,True,False,True,False,False
+725,El Salvador,No notes,222,B R,52.9877337369533,Female,2000,True,False,True,False,False
+726,Guatemala,No notes,320,B R,55.919699079365735,Female,2000,True,False,True,False,False
+727,Honduras,No notes,340,B R,48.76849021467974,Female,2000,True,False,True,False,False
+728,Mexico,No notes,484,B R,49.65235637513916,Female,2000,True,False,True,False,False
+729,Nicaragua,No notes,558,B R,49.248083187995654,Female,2000,True,False,True,False,False
+730,Panama,No notes,591,B,49.12240738520561,Female,2000,True,False,False,False,False
+731,South America,No notes,931,F,50.56739839874891,Female,2000,False,False,False,False,True
+732,Argentina,No notes,32,B,53.38818700457533,Female,2000,True,False,False,False,False
+733,Bolivia (Plurinational State of),No notes,68,B,48.55813853094174,Female,2000,True,False,False,False,False
+734,Brazil,No notes,76,B,46.51502491980672,Female,2000,True,False,False,False,False
+735,Chile,No notes,152,B,52.226896442830395,Female,2000,True,False,False,False,False
+736,Colombia,No notes,170,B,48.705854446258975,Female,2000,True,False,False,False,False
+737,Ecuador,No notes,218,B R,49.03282009991882,Female,2000,True,False,True,False,False
+738,Falkland Islands (Malvinas),No notes,238,B,40.393626991565135,Female,2000,True,False,False,False,False
+739,French Guiana,No notes,254,B,49.25569805215984,Female,2000,True,False,False,False,False
+740,Guyana,No notes,328,B,46.44599303135888,Female,2000,True,False,False,False,False
+741,Paraguay,No notes,600,B,47.87778583076644,Female,2000,True,False,False,False,False
+742,Peru,No notes,604,B,50.28886911136923,Female,2000,True,False,False,False,False
+743,Suriname,No notes,740,C,45.85908529048208,Female,2000,False,True,False,False,False
+744,Uruguay,No notes,858,B,53.76106941521981,Female,2000,True,False,False,False,False
+745,Venezuela (Bolivarian Republic of),No notes,862,B,49.82168630008198,Female,2000,True,False,False,False,False
+746,Northern America,No notes,905,F,50.47579977006258,Female,2000,False,False,False,False,True
+747,Bermuda,No notes,60,B,51.7149649083088,Female,2000,True,False,False,False,False
+748,Canada,No notes,124,B,51.75659489607421,Female,2000,True,False,False,False,False
+749,Greenland,No notes,304,B,30.08142116950407,Female,2000,True,False,False,False,False
+750,Saint Pierre and Miquelon,No notes,666,B,48.148148148148145,Female,2000,True,False,False,False,False
+751,United States of America,No notes,840,B,50.27644440019666,Female,2000,True,False,False,False,False
+752,Oceania,No notes,909,F,50.07221045714881,Female,2000,False,False,False,False,True
+753,Australia and New Zealand,No notes,927,F,50.250826100287405,Female,2000,False,False,False,False,True
+754,Australia,22,36,B,50.073525220860645,Female,2000,True,False,False,False,False
+755,New Zealand,No notes,554,B,51.39648179984767,Female,2000,True,False,False,False,False
+756,Melanesia,No notes,928,F,43.981589744679944,Female,2000,False,False,False,False,True
+757,Fiji,No notes,242,B,48.10126582278481,Female,2000,True,False,False,False,False
+758,New Caledonia,No notes,540,B,45.757386558176066,Female,2000,True,False,False,False,False
+759,Papua New Guinea,No notes,598,C R,37.755467909645034,Female,2000,False,True,True,False,False
+760,Solomon Islands,No notes,90,B,44.134639537804574,Female,2000,True,False,False,False,False
+761,Vanuatu,No notes,548,B,49.733434881949734,Female,2000,True,False,False,False,False
+762,Micronesia,No notes,954,F,50.12674173874303,Female,2000,False,False,False,False,True
+763,Guam,No notes,316,B,48.319157553665455,Female,2000,True,False,False,False,False
+764,Kiribati,No notes,296,B,47.96320630749015,Female,2000,True,False,False,False,False
+765,Marshall Islands,No notes,584,B,38.44526705446854,Female,2000,True,False,False,False,False
+766,Micronesia (Federated States of),No notes,583,B,44.768934531450576,Female,2000,True,False,False,False,False
+767,Nauru,No notes,520,C,46.40768588137009,Female,2000,False,True,False,False,False
+768,Northern Mariana Islands,No notes,580,B,56.664672748118235,Female,2000,True,False,False,False,False
+769,Palau,No notes,585,B,38.11410459587955,Female,2000,True,False,False,False,False
+770,Polynesia,No notes,957,F,45.28005657708628,Female,2000,False,False,False,False,True
+771,American Samoa,No notes,16,B,48.22575465639049,Female,2000,True,False,False,False,False
+772,Cook Islands,No notes,184,B,44.272890484739676,Female,2000,True,False,False,False,False
+773,French Polynesia,No notes,258,B,41.95654324244123,Female,2000,True,False,False,False,False
+774,Niue,No notes,570,B,46.1847389558233,Female,2000,True,False,False,False,False
+775,Samoa,No notes,882,B,48.29943314438146,Female,2000,True,False,False,False,False
+776,Tokelau,No notes,772,B,45.038167938931295,Female,2000,True,False,False,False,False
+777,Tonga,No notes,776,B,46.22692725298588,Female,2000,True,False,False,False,False
+778,Tuvalu,No notes,798,C,44.23963133640553,Female,2000,False,True,False,False,False
+779,Wallis and Futuna Islands,No notes,876,B,49.478908188585606,Female,2000,True,False,False,False,False
+780,Sub-Saharan Africa,e,947,F,46.64180265249601,Female,2005,False,False,False,False,True
+781,Africa,No notes,903,F,45.81424600882646,Female,2005,False,False,False,False,True
+782,Eastern Africa,No notes,910,F,46.700993216727575,Female,2005,False,False,False,False,True
+783,Burundi,No notes,108,B R,50.944040167983616,Female,2005,True,False,True,False,False
+784,Comoros,No notes,174,B,52.41123476417594,Female,2005,True,False,False,False,False
+785,Djibouti,No notes,262,B R,44.27794246994821,Female,2005,True,False,True,False,False
+786,Eritrea,No notes,232,I,46.0039122537376,Female,2005,False,False,False,True,False
+787,Ethiopia,No notes,231,B R,47.54901388840273,Female,2005,True,False,True,False,False
+788,Kenya,No notes,404,B R,48.30055463512725,Female,2005,True,False,True,False,False
+789,Madagascar,No notes,450,C,43.41852789930156,Female,2005,False,True,False,False,False
+790,Malawi,No notes,454,B R,52.21035725725319,Female,2005,True,False,True,False,False
+791,Mauritius,1,480,C,54.48160024431211,Female,2005,False,True,False,False,False
+792,Mayotte,No notes,175,B,50.354565024692924,Female,2005,True,False,False,False,False
+793,Mozambique,No notes,508,B R,49.95850217253332,Female,2005,True,False,True,False,False
+794,Réunion,No notes,638,B,48.55921304181584,Female,2005,True,False,False,False,False
+795,Rwanda,No notes,646,B R,49.854781803016195,Female,2005,True,False,True,False,False
+796,Seychelles,No notes,690,B,35.31177059019674,Female,2005,True,False,False,False,False
+797,Somalia,No notes,706,I R,46.555394291243346,Female,2005,False,False,False,True,False
+798,South Sudan,No notes,728,B R,..,Female,2005,True,False,True,False,False
+799,Uganda,No notes,800,B R,50.62223569914606,Female,2005,True,False,True,False,False
+800,United Republic of Tanzania,2,834,B R,36.851978216141745,Female,2005,True,False,True,False,False
+801,Zambia,No notes,894,B R,49.13807769763678,Female,2005,True,False,True,False,False
+802,Zimbabwe,No notes,716,B R,42.965624546401386,Female,2005,True,False,True,False,False
+803,Middle Africa,No notes,911,F,48.99140825413152,Female,2005,False,False,False,False,True
+804,Angola,No notes,24,B R,50.692168468424406,Female,2005,True,False,True,False,False
+805,Cameroon,No notes,120,B,44.9645779304854,Female,2005,True,False,False,False,False
+806,Central African Republic,No notes,140,C,46.8115067390867,Female,2005,False,True,False,False,False
+807,Chad,No notes,148,B R,54.63441098442888,Female,2005,True,False,True,False,False
+808,Congo,No notes,178,B,45.622037952277324,Female,2005,True,False,False,False,False
+809,Democratic Republic of the Congo,No notes,180,B R,51.46812572145989,Female,2005,True,False,True,False,False
+810,Equatorial Guinea,No notes,226,C,45.90163934426229,Female,2005,False,True,False,False,False
+811,Gabon,No notes,266,C,42.89310349658841,Female,2005,False,True,False,False,False
+812,Sao Tome and Principe,No notes,678,C,49.694145062627435,Female,2005,False,True,False,False,False
+813,Northern Africa,No notes,912,F,40.33267229837031,Female,2005,False,False,False,False,True
+814,Algeria,No notes,12,C R,45.16052145739829,Female,2005,False,True,True,False,False
+815,Egypt,No notes,818,B R,42.23488235444396,Female,2005,True,False,True,False,False
+816,Libya,No notes,434,C,28.728655240142544,Female,2005,False,True,False,False,False
+817,Morocco,No notes,504,C,49.349932878500894,Female,2005,False,True,False,False,False
+818,Sudan,3,729,B R,49.0926098812902,Female,2005,True,False,True,False,False
+819,Tunisia,No notes,788,C,48.63013698630137,Female,2005,False,True,False,False,False
+820,Western Sahara,No notes,732,I,42.84245695194038,Female,2005,False,False,False,True,False
+821,Southern Africa,No notes,913,F,41.84688896824151,Female,2005,False,False,False,False,True
+822,Botswana,No notes,72,C,44.05543234754416,Female,2005,False,True,False,False,False
+823,Lesotho,No notes,426,C R,45.91414944356121,Female,2005,False,True,True,False,False
+824,Namibia,No notes,516,B,46.33306359034194,Female,2005,True,False,False,False,False
+825,South Africa,No notes,710,B R,41.18442262844609,Female,2005,True,False,True,False,False
+826,Swaziland,No notes,748,B R,45.672952725393955,Female,2005,True,False,True,False,False
+827,Western Africa,No notes,914,F,46.78546701954997,Female,2005,False,False,False,False,True
+828,Benin,No notes,204,C B R,45.25798984250637,Female,2005,False,False,False,True,False
+829,Burkina Faso,No notes,854,B R,52.16827589903714,Female,2005,True,False,True,False,False
+830,Cabo Verde,No notes,132,B,48.63779527559055,Female,2005,True,False,False,False,False
+831,Côte d'Ivoire,No notes,384,C B,44.62021539428612,Female,2005,False,False,False,False,False
+832,Gambia,No notes,270,B,47.098760341936725,Female,2005,True,False,False,False,False
+833,Ghana,No notes,288,B,47.653037091539765,Female,2005,True,False,False,False,False
+834,Guinea,No notes,324,C R,51.33595515894274,Female,2005,False,True,True,False,False
+835,Guinea-Bissau,No notes,624,B R,50.33757716049383,Female,2005,True,False,True,False,False
+836,Liberia,No notes,430,B,41.295820525760426,Female,2005,True,False,False,False,False
+837,Mali,No notes,466,B R,48.50251365864866,Female,2005,True,False,True,False,False
+838,Mauritania,No notes,478,C R,43.9288356647568,Female,2005,False,True,True,False,False
+839,Niger,No notes,562,B R,52.4590032218928,Female,2005,True,False,True,False,False
+840,Nigeria,No notes,566,C R,44.79313106560147,Female,2005,False,True,True,False,False
+841,Saint Helena,4,654,B,45.9958932238193,Female,2005,True,False,False,False,False
+842,Senegal,No notes,686,B R,47.605938782532796,Female,2005,True,False,True,False,False
+843,Sierra Leone,No notes,694,B R,46.77137987501253,Female,2005,True,False,True,False,False
+844,Togo,No notes,768,C R,49.416114741443316,Female,2005,False,True,True,False,False
+845,Asia,No notes,935,F,44.56707419713665,Female,2005,False,False,False,False,True
+846,Central Asia,No notes,5500,F,54.03039953240298,Female,2005,False,False,False,False,True
+847,Kazakhstan,No notes,398,B,52.515016297331385,Female,2005,True,False,False,False,False
+848,Kyrgyzstan,No notes,417,B,58.598516444708636,Female,2005,True,False,False,False,False
+849,Tajikistan,No notes,762,B,56.718275306300015,Female,2005,True,False,False,False,False
+850,Turkmenistan,No notes,795,B,55.68854405752614,Female,2005,True,False,False,False,False
+851,Uzbekistan,No notes,860,B,55.65959175383366,Female,2005,True,False,False,False,False
+852,Eastern Asia,No notes,906,F,52.94454279331775,Female,2005,False,False,False,False,True
+853,China,5,156,C,44.0427603332808,Female,2005,False,True,False,False,False
+854,"China, Hong Kong Special Administrative Region",6,344,B,56.449149007711576,Female,2005,True,False,False,False,False
+855,"China, Macao Special Administrative Region",7,446,B,53.31784266830882,Female,2005,True,False,False,False,False
+856,Democratic People's Republic of Korea,No notes,408,I,50.74693867371624,Female,2005,False,False,False,True,False
+857,Japan,No notes,392,C,54.0694196876571,Female,2005,False,True,False,False,False
+858,Mongolia,No notes,496,C,33.97821350762527,Female,2005,False,True,False,False,False
+859,Republic of Korea,No notes,410,C,41.50214397811948,Female,2005,False,True,False,False,False
+860,South-Eastern Asia,No notes,920,F,48.730831849842914,Female,2005,False,False,False,False,True
+861,Brunei Darussalam,No notes,96,B,43.859773874706676,Female,2005,True,False,False,False,False
+862,Cambodia,No notes,116,B,49.56546903912094,Female,2005,True,False,False,False,False
+863,Indonesia,No notes,360,B R,42.84831196817328,Female,2005,True,False,True,False,False
+864,Lao People's Democratic Republic,No notes,418,C R,46.345294781797655,Female,2005,False,True,True,False,False
+865,Malaysia,8,458,C R,42.19464868806696,Female,2005,False,True,True,False,False
+866,Myanmar,No notes,104,C,46.39445950015056,Female,2005,False,True,False,False,False
+867,Philippines,No notes,608,C R,48.33416191526714,Female,2005,False,True,True,False,False
+868,Singapore,No notes,702,B,55.64336131191855,Female,2005,True,False,False,False,False
+869,Thailand,No notes,764,B R,49.79465639786877,Female,2005,True,False,True,False,False
+870,Timor-Leste,No notes,626,B,50.540492645755805,Female,2005,True,False,False,False,False
+871,Viet Nam,No notes,704,C R,39.91268737443981,Female,2005,False,True,True,False,False
+872,Southern Asia,No notes,5501,F,45.06752690986765,Female,2005,False,False,False,False,True
+873,Afghanistan,No notes,4,B,43.557846506300116,Female,2005,True,False,False,False,False
+874,Bangladesh,No notes,50,B R,13.628353475614983,Female,2005,True,False,True,False,False
+875,Bhutan,No notes,64,B,18.711983912212318,Female,2005,True,False,False,False,False
+876,India,No notes,356,B R,48.58411429995263,Female,2005,True,False,True,False,False
+877,Iran (Islamic Republic of),No notes,364,B R,45.10091750261782,Female,2005,True,False,True,False,False
+878,Maldives,No notes,462,C R,39.884559884559884,Female,2005,False,True,True,False,False
+879,Nepal,No notes,524,B R,65.38368138086736,Female,2005,True,False,True,False,False
+880,Pakistan,No notes,586,B R,46.12289869989644,Female,2005,True,False,True,False,False
+881,Sri Lanka,No notes,144,B R,46.06588068613065,Female,2005,True,False,True,False,False
+882,Western Asia,No notes,922,F,38.29762311560828,Female,2005,False,False,False,False,True
+883,Armenia,No notes,51,B R,59.199904501842816,Female,2005,True,False,True,False,False
+884,Azerbaijan,9,31,B R,55.21937661306333,Female,2005,True,False,True,False,False
+885,Bahrain,No notes,48,C,28.56407387789653,Female,2005,False,True,False,False,False
+886,Cyprus,10,196,B,56.965817436947894,Female,2005,True,False,False,False,False
+887,Georgia,11,268,B,56.89647406221066,Female,2005,True,False,False,False,False
+888,Iraq,No notes,368,C R,39.14682315765715,Female,2005,False,True,True,False,False
+889,Israel,No notes,376,B R,54.07231425406576,Female,2005,True,False,True,False,False
+890,Jordan,No notes,400,C R,49.09960118929361,Female,2005,False,True,True,False,False
+891,Kuwait,No notes,414,C R,31.106172754320582,Female,2005,False,True,True,False,False
+892,Lebanon,No notes,422,B R,48.42240322205543,Female,2005,True,False,True,False,False
+893,Oman,No notes,512,C,20.76348024498619,Female,2005,False,True,False,False,False
+894,Qatar,No notes,634,C,22.847068074659536,Female,2005,False,True,False,False,False
+895,Saudi Arabia,No notes,682,C R,31.253007812121503,Female,2005,False,True,True,False,False
+896,State of Palestine,12,275,B,55.13376866441375,Female,2005,True,False,False,False,False
+897,Syrian Arab Republic,No notes,760,C R,48.714642690065155,Female,2005,False,True,True,False,False
+898,Turkey,No notes,792,B R,53.08360293381927,Female,2005,True,False,True,False,False
+899,United Arab Emirates,No notes,784,C R,27.209637443783002,Female,2005,False,True,True,False,False
+900,Yemen,No notes,887,C R,42.4929708370111,Female,2005,False,True,True,False,False
+901,Europe,No notes,908,F,51.750417527322,Female,2005,False,False,False,False,True
+902,Eastern Europe,No notes,923,F,52.587192273288544,Female,2005,False,False,False,False,True
+903,Belarus,No notes,112,B,54.200881315143334,Female,2005,True,False,False,False,False
+904,Bulgaria,No notes,100,B,56.456102433113934,Female,2005,True,False,False,False,False
+905,Czech Republic,No notes,203,C,43.66001116140634,Female,2005,False,True,False,False,False
+906,Hungary,No notes,348,B R,52.50213339076903,Female,2005,True,False,True,False,False
+907,Poland,No notes,616,B,58.88784776383409,Female,2005,True,False,False,False,False
+908,Republic of Moldova,13,498,B,55.96612956075352,Female,2005,True,False,False,False,False
+909,Romania,No notes,642,B,54.35168983618303,Female,2005,True,False,False,False,False
+910,Russian Federation,No notes,643,B,50.23309873471706,Female,2005,True,False,False,False,False
+911,Slovakia,No notes,703,B,55.003793365059664,Female,2005,True,False,False,False,False
+912,Ukraine,No notes,804,B,57.07068606986275,Female,2005,True,False,False,False,False
+913,Northern Europe,No notes,924,F,52.398565662030784,Female,2005,False,False,False,False,True
+914,Channel Islands,14,830,B,52.621192258355535,Female,2005,True,False,False,False,False
+915,Denmark,No notes,208,B,51.61098407522543,Female,2005,True,False,False,False,False
+916,Estonia,No notes,233,B,59.673257709637525,Female,2005,True,False,False,False,False
+917,Faeroe Islands,No notes,234,B,46.54156665939341,Female,2005,True,False,False,False,False
+918,Finland,15,246,B,49.82073071098876,Female,2005,True,False,False,False,False
+919,Iceland,No notes,352,B,51.30629217009258,Female,2005,True,False,False,False,False
+920,Ireland,No notes,372,B,47.38781012009249,Female,2005,True,False,False,False,False
+921,Isle of Man,No notes,833,B,51.2622061482821,Female,2005,True,False,False,False,False
+922,Latvia,No notes,428,B,58.923618023757385,Female,2005,True,False,False,False,False
+923,Lithuania,No notes,440,B,53.18847566460745,Female,2005,True,False,False,False,False
+924,Norway,16,578,B,51.14303435748621,Female,2005,True,False,False,False,False
+925,Sweden,No notes,752,B,52.167811048241674,Female,2005,True,False,False,False,False
+926,United Kingdom of Great Britain and Northern Ireland,No notes,826,B,52.445109443625846,Female,2005,True,False,False,False,False
+927,Southern Europe,No notes,925,F,51.29572968317069,Female,2005,False,False,False,False,True
+928,Albania,No notes,8,B,49.036902021965126,Female,2005,True,False,False,False,False
+929,Andorra,No notes,20,C,47.196707622569484,Female,2005,False,True,False,False,False
+930,Bosnia and Herzegovina,No notes,70,I R,52.46023015738703,Female,2005,False,False,False,True,False
+931,Croatia,No notes,191,B R,53.10587581330392,Female,2005,True,False,True,False,False
+932,Gibraltar,No notes,292,B,50.94995114536967,Female,2005,True,False,False,False,False
+933,Greece,No notes,300,B,50.64470100536907,Female,2005,True,False,False,False,False
+934,Holy See,17,336,I,52.33291298865069,Female,2005,False,False,False,True,False
+935,Italy,No notes,380,B,53.97252445768296,Female,2005,True,False,False,False,False
+936,Malta,No notes,470,B,51.55130293159609,Female,2005,True,False,False,False,False
+937,Montenegro,No notes,499,B,..,Female,2005,True,False,False,False,False
+938,Portugal,No notes,620,B,51.14343658582128,Female,2005,True,False,False,False,False
+939,San Marino,No notes,674,B,45.42437174016121,Female,2005,True,False,False,False,False
+940,Serbia,18,688,B,55.80828758046194,Female,2005,True,False,False,False,False
+941,Slovenia,No notes,705,B,45.69486404833837,Female,2005,True,False,False,False,False
+942,Spain,19,724,B,47.880150739209384,Female,2005,True,False,False,False,False
+943,The former Yugoslav Republic of Macedonia,No notes,807,B,58.31342476912593,Female,2005,True,False,False,False,False
+944,Western Europe,No notes,926,F,50.99109670392238,Female,2005,False,False,False,False,True
+945,Austria,No notes,40,B,52.157673792320494,Female,2005,True,False,False,False,False
+946,Belgium,No notes,56,C,48.81967521834688,Female,2005,False,True,False,False,False
+947,France,No notes,250,B,51.00838577535028,Female,2005,True,False,False,False,False
+948,Germany,No notes,276,B,51.338924727841885,Female,2005,True,False,False,False,False
+949,Liechtenstein,No notes,438,B,50.079373478674995,Female,2005,True,False,False,False,False
+950,Luxembourg,No notes,442,B,50.23768739460092,Female,2005,True,False,False,False,False
+951,Monaco,No notes,492,B,51.56719219219219,Female,2005,True,False,False,False,False
+952,Netherlands,No notes,528,B,51.41807022182133,Female,2005,True,False,False,False,False
+953,Switzerland,No notes,756,B,48.910596160375576,Female,2005,True,False,False,False,False
+954,Latin America and the Caribbean,No notes,904,F,50.30129551680345,Female,2005,False,False,False,False,True
+955,Caribbean,No notes,915,F,48.76996252088445,Female,2005,False,False,False,False,True
+956,Anguilla,No notes,660,B,52.818104184457724,Female,2005,True,False,False,False,False
+957,Antigua and Barbuda,No notes,28,B,55.32921062204438,Female,2005,True,False,False,False,False
+958,Aruba,No notes,533,B,55.258143822987094,Female,2005,True,False,False,False,False
+959,Bahamas,No notes,44,B,48.139050334466496,Female,2005,True,False,False,False,False
+960,Barbados,No notes,52,B,55.67202194357367,Female,2005,True,False,False,False,False
+961,"Bonaire, Sint Eustatius and Saba",20,535,B,55.74788718053152,Female,2005,True,False,False,False,False
+962,British Virgin Islands,No notes,92,B,50.71697566628042,Female,2005,True,False,False,False,False
+963,Cayman Islands,No notes,136,C,49.15262064188409,Female,2005,False,True,False,False,False
+964,Cuba,No notes,192,B,55.70698466780238,Female,2005,True,False,False,False,False
+965,Curaçao,No notes,531,B,..,Female,2005,True,False,False,False,False
+966,Dominica,No notes,212,B,47.491568296795954,Female,2005,True,False,False,False,False
+967,Dominican Republic,No notes,214,B,39.313991186193654,Female,2005,True,False,False,False,False
+968,Grenada,No notes,308,B,50.39119095914227,Female,2005,True,False,False,False,False
+969,Guadeloupe,21,312,B,53.65968674563521,Female,2005,True,False,False,False,False
+970,Haiti,No notes,332,B,42.84823421294473,Female,2005,True,False,False,False,False
+971,Jamaica,No notes,388,B,49.564037180225384,Female,2005,True,False,False,False,False
+972,Martinique,No notes,474,B,54.60427113651506,Female,2005,True,False,False,False,False
+973,Montserrat,No notes,500,B,48.633440514469456,Female,2005,True,False,False,False,False
+974,Puerto Rico,No notes,630,B,52.63869326184742,Female,2005,True,False,False,False,False
+975,Saint Kitts and Nevis,No notes,659,B,47.60550733313379,Female,2005,True,False,False,False,False
+976,Saint Lucia,No notes,662,B,49.57272410184862,Female,2005,True,False,False,False,False
+977,Saint Vincent and the Grenadines,No notes,670,B,51.21729237770194,Female,2005,True,False,False,False,False
+978,Sint Maarten (Dutch part),No notes,534,B,52.022900763358784,Female,2005,True,False,False,False,False
+979,Trinidad and Tobago,No notes,780,B,53.92528786932071,Female,2005,True,False,False,False,False
+980,Turks and Caicos Islands,No notes,796,B,48.25540472599296,Female,2005,True,False,False,False,False
+981,United States Virgin Islands,No notes,850,B,52.820096386392926,Female,2005,True,False,False,False,False
+982,Central America,No notes,916,F,50.05141757348023,Female,2005,False,False,False,False,True
+983,Belize,No notes,84,B R ,49.19611819235226,Female,2005,False,False,False,False,False
+984,Costa Rica,No notes,188,B R,50.76847909541426,Female,2005,True,False,True,False,False
+985,El Salvador,No notes,222,B R,52.722174407951364,Female,2005,True,False,True,False,False
+986,Guatemala,No notes,320,B R,54.47495284007545,Female,2005,True,False,True,False,False
+987,Honduras,No notes,340,B R,48.18295964125561,Female,2005,True,False,True,False,False
+988,Mexico,No notes,484,B R,49.523008840863056,Female,2005,True,False,True,False,False
+989,Nicaragua,No notes,558,B R,49.100750329343036,Female,2005,True,False,True,False,False
+990,Panama,No notes,591,B,49.123448704099076,Female,2005,True,False,False,False,False
+991,South America,No notes,931,F,50.82822394766573,Female,2005,False,False,False,False,True
+992,Argentina,No notes,32,B,53.689823846683495,Female,2005,True,False,False,False,False
+993,Bolivia (Plurinational State of),No notes,68,B,48.00779618543784,Female,2005,True,False,False,False,False
+994,Brazil,No notes,76,B,46.28426732980259,Female,2005,True,False,False,False,False
+995,Chile,No notes,152,B,52.668042021478946,Female,2005,True,False,False,False,False
+996,Colombia,No notes,170,B,48.23439765081961,Female,2005,True,False,False,False,False
+997,Ecuador,No notes,218,B R,48.67345414185396,Female,2005,True,False,True,False,False
+998,Falkland Islands (Malvinas),No notes,238,B,42.109777015437395,Female,2005,True,False,False,False,False
+999,French Guiana,No notes,254,B,50.584031086644764,Female,2005,True,False,False,False,False
+1000,Guyana,No notes,328,B,46.47589252852411,Female,2005,True,False,False,False,False
+1001,Paraguay,No notes,600,B,47.874205761903916,Female,2005,True,False,False,False,False
+1002,Peru,No notes,604,B,50.03159618782321,Female,2005,True,False,False,False,False
+1003,Suriname,No notes,740,C,45.52340779467681,Female,2005,False,True,False,False,False
+1004,Uruguay,No notes,858,B,54.25301878082558,Female,2005,True,False,False,False,False
+1005,Venezuela (Bolivarian Republic of),No notes,862,B,50.01728064325093,Female,2005,True,False,False,False,False
+1006,Northern America,No notes,905,F,50.301929615617105,Female,2005,False,False,False,False,True
+1007,Bermuda,No notes,60,B,51.48829065441015,Female,2005,True,False,False,False,False
+1008,Canada,No notes,124,B,52.03413069780564,Female,2005,True,False,False,False,False
+1009,Greenland,No notes,304,B,31.962309303021236,Female,2005,True,False,False,False,False
+1010,Saint Pierre and Miquelon,No notes,666,B,47.95117698343505,Female,2005,True,False,False,False,False
+1011,United States of America,No notes,840,B,50.036345186990175,Female,2005,True,False,False,False,False
+1012,Oceania,No notes,909,F,50.378746562792145,Female,2005,False,False,False,False,True
+1013,Australia and New Zealand,No notes,927,F,50.56157924246701,Female,2005,False,False,False,False,True
+1014,Australia,22,36,B,50.40641406469415,Female,2005,True,False,False,False,False
+1015,New Zealand,No notes,554,B,51.46270263062651,Female,2005,True,False,False,False,False
+1016,Melanesia,No notes,928,F,43.54627543849516,Female,2005,False,False,False,False,True
+1017,Fiji,No notes,242,B,47.213510253317246,Female,2005,True,False,False,False,False
+1018,New Caledonia,No notes,540,B,46.01750744517643,Female,2005,True,False,False,False,False
+1019,Papua New Guinea,No notes,598,C R,36.790469516468114,Female,2005,False,True,True,False,False
+1020,Solomon Islands,No notes,90,B,44.053806175481505,Female,2005,True,False,False,False,False
+1021,Vanuatu,No notes,548,B,50.07142857142857,Female,2005,True,False,False,False,False
+1022,Micronesia,No notes,954,F,50.33180154217618,Female,2005,False,False,False,False,True
+1023,Guam,No notes,316,B,48.35369198453367,Female,2005,True,False,False,False,False
+1024,Kiribati,No notes,296,B,47.24567752312023,Female,2005,True,False,False,False,False
+1025,Marshall Islands,No notes,584,B,38.56019859329748,Female,2005,True,False,False,False,False
+1026,Micronesia (Federated States of),No notes,583,B,46.12736660929432,Female,2005,True,False,False,False,False
+1027,Nauru,No notes,520,C,46.38260097647581,Female,2005,False,True,False,False,False
+1028,Northern Mariana Islands,No notes,580,B,57.44233125566033,Female,2005,True,False,False,False,False
+1029,Palau,No notes,585,B,40.09597881846765,Female,2005,True,False,False,False,False
+1030,Polynesia,No notes,957,F,45.87336513099452,Female,2005,False,False,False,False,True
+1031,American Samoa,No notes,16,B,48.4257004910659,Female,2005,True,False,False,False,False
+1032,Cook Islands,No notes,184,B,47.39090631675313,Female,2005,True,False,False,False,False
+1033,French Polynesia,No notes,258,B,42.993867310908755,Female,2005,True,False,False,False,False
+1034,Niue,No notes,570,B,45.97701149425287,Female,2005,True,False,False,False,False
+1035,Samoa,No notes,882,B,48.83397145840584,Female,2005,True,False,False,False,False
+1036,Tokelau,No notes,772,B,48.44961240310077,Female,2005,True,False,False,False,False
+1037,Tonga,No notes,776,B,45.87305277842362,Female,2005,True,False,False,False,False
+1038,Tuvalu,No notes,798,C,44.80874316939891,Female,2005,False,True,False,False,False
+1039,Wallis and Futuna Islands,No notes,876,B,49.51374207188161,Female,2005,True,False,False,False,False
+1040,Sub-Saharan Africa,e,947,F,47.15941341043846,Female,2010,False,False,False,False,True
+1041,Africa,No notes,903,F,46.322408045504,Female,2010,False,False,False,False,True
+1042,Eastern Africa,No notes,910,F,49.19080974425298,Female,2010,False,False,False,False,True
+1043,Burundi,No notes,108,B R,50.76787710565802,Female,2010,True,False,True,False,False
+1044,Comoros,No notes,174,B,51.9733713742273,Female,2010,True,False,False,False,False
+1045,Djibouti,No notes,262,B R,47.53138075313807,Female,2010,True,False,True,False,False
+1046,Eritrea,No notes,232,I,45.11992855320235,Female,2010,False,False,False,True,False
+1047,Ethiopia,No notes,231,B R,47.59141830479814,Female,2010,True,False,True,False,False
+1048,Kenya,No notes,404,B R,50.44624411651433,Female,2010,True,False,True,False,False
+1049,Madagascar,No notes,450,C,43.22781525687597,Female,2010,False,True,False,False,False
+1050,Malawi,No notes,454,B R,52.29283214374294,Female,2010,True,False,True,False,False
+1051,Mauritius,1,480,C,46.89966178128523,Female,2010,False,True,False,False,False
+1052,Mayotte,No notes,175,B,52.58188215566887,Female,2010,True,False,False,False,False
+1053,Mozambique,No notes,508,B R,51.22546735504072,Female,2010,True,False,True,False,False
+1054,Réunion,No notes,638,B,49.03071633517301,Female,2010,True,False,False,False,False
+1055,Rwanda,No notes,646,B R,49.992788246902954,Female,2010,True,False,True,False,False
+1056,Seychelles,No notes,690,B,31.663747810858144,Female,2010,True,False,False,False,False
+1057,Somalia,No notes,706,I R,46.18045426130444,Female,2010,False,False,False,True,False
+1058,South Sudan,No notes,728,B R,48.54965975843818,Female,2010,True,False,True,False,False
+1059,Uganda,No notes,800,B R,50.55446367828256,Female,2010,True,False,True,False,False
+1060,United Republic of Tanzania,2,834,B R,50.102397926117945,Female,2010,True,False,True,False,False
+1061,Zambia,No notes,894,B R,49.360786436509684,Female,2010,True,False,True,False,False
+1062,Zimbabwe,No notes,716,B R,42.957493383866435,Female,2010,True,False,True,False,False
+1063,Middle Africa,No notes,911,F,48.9826302033805,Female,2010,False,False,False,False,True
+1064,Angola,No notes,24,B R,51.51732876980757,Female,2010,True,False,True,False,False
+1065,Cameroon,No notes,120,B,44.59737591277487,Female,2010,True,False,False,False,False
+1066,Central African Republic,No notes,140,C,46.779577600410846,Female,2010,False,True,False,False,False
+1067,Chad,No notes,148,B R,55.202147153917736,Female,2010,True,False,True,False,False
+1068,Congo,No notes,178,B,45.62598743235418,Female,2010,True,False,False,False,False
+1069,Democratic Republic of the Congo,No notes,180,B R,51.737159351388065,Female,2010,True,False,True,False,False
+1070,Equatorial Guinea,No notes,226,C,45.32224532224532,Female,2010,False,True,False,False,False
+1071,Gabon,No notes,266,C,42.843207974031934,Female,2010,False,True,False,False,False
+1072,Sao Tome and Principe,No notes,678,C,49.925925925925924,Female,2010,False,True,False,False,False
+1073,Northern Africa,No notes,912,F,40.387840839961015,Female,2010,False,False,False,False,True
+1074,Algeria,No notes,12,C R,45.15969693505985,Female,2010,False,True,True,False,False
+1075,Egypt,No notes,818,B R,43.840670377459304,Female,2010,True,False,True,False,False
+1076,Libya,No notes,434,C,28.400814037467946,Female,2010,False,True,False,False,False
+1077,Morocco,No notes,504,C,49.60019179511769,Female,2010,False,True,False,False,False
+1078,Sudan,3,729,B R,49.03166350544554,Female,2010,True,False,True,False,False
+1079,Tunisia,No notes,788,C,48.4943945149634,Female,2010,False,True,False,False,False
+1080,Western Sahara,No notes,732,I,41.86512352548409,Female,2010,False,False,False,True,False
+1081,Southern Africa,No notes,913,F,42.0435926739182,Female,2010,False,False,False,False,True
+1082,Botswana,No notes,72,C,44.84253010453884,Female,2010,False,True,False,False,False
+1083,Lesotho,No notes,426,C R,45.91518553164951,Female,2010,False,True,True,False,False
+1084,Namibia,No notes,516,B,46.23895317611445,Female,2010,True,False,False,False,False
+1085,South Africa,No notes,710,B R,41.542556503811696,Female,2010,True,False,True,False,False
+1086,Swaziland,No notes,748,B R,47.97217482609266,Female,2010,True,False,True,False,False
+1087,Western Africa,No notes,914,F,46.62323909569583,Female,2010,False,False,False,False,True
+1088,Benin,No notes,204,C B R,44.50199983752813,Female,2010,False,False,False,True,False
+1089,Burkina Faso,No notes,854,B R,52.41399368456041,Female,2010,True,False,True,False,False
+1090,Cabo Verde,No notes,132,B,49.25902734293467,Female,2010,True,False,False,False,False
+1091,Côte d'Ivoire,No notes,384,C B,44.61749201144529,Female,2010,False,False,False,False,False
+1092,Gambia,No notes,270,B,47.19831182743604,Female,2010,True,False,False,False,False
+1093,Ghana,No notes,288,B,46.12794013358376,Female,2010,True,False,False,False,False
+1094,Guinea,No notes,324,C R,50.781284280219005,Female,2010,False,True,True,False,False
+1095,Guinea-Bissau,No notes,624,B R,51.06120317173924,Female,2010,True,False,True,False,False
+1096,Liberia,No notes,430,B,42.61517820214065,Female,2010,True,False,False,False,False
+1097,Mali,No notes,466,B R,48.64069968836061,Female,2010,True,False,True,False,False
+1098,Mauritania,No notes,478,C R,42.60088097403134,Female,2010,False,True,True,False,False
+1099,Niger,No notes,562,B R,52.52957363360324,Female,2010,True,False,True,False,False
+1100,Nigeria,No notes,566,C R,44.96716725463473,Female,2010,False,True,True,False,False
+1101,Saint Helena,4,654,B,45.16695957820738,Female,2010,True,False,False,False,False
+1102,Senegal,No notes,686,B R,46.94133358324352,Female,2010,True,False,True,False,False
+1103,Sierra Leone,No notes,694,B R,45.369002175429955,Female,2010,True,False,True,False,False
+1104,Togo,No notes,768,C R,49.35399706967743,Female,2010,False,True,True,False,False
+1105,Asia,No notes,935,F,42.038178381240655,Female,2010,False,False,False,False,True
+1106,Central Asia,No notes,5500,F,52.71225334988847,Female,2010,False,False,False,False,True
+1107,Kazakhstan,No notes,398,B,51.2680743820216,Female,2010,True,False,False,False,False
+1108,Kyrgyzstan,No notes,417,B,59.24686084030565,Female,2010,True,False,False,False,False
+1109,Tajikistan,No notes,762,B,56.813540797837156,Female,2010,True,False,False,False,False
+1110,Turkmenistan,No notes,795,B,54.23757065143273,Female,2010,True,False,False,False,False
+1111,Uzbekistan,No notes,860,B,54.23681861805403,Female,2010,True,False,False,False,False
+1112,Eastern Asia,No notes,906,F,53.01149251452956,Female,2010,False,False,False,False,True
+1113,China,5,156,C,40.48932707819279,Female,2010,False,True,False,False,False
+1114,"China, Hong Kong Special Administrative Region",6,344,B,58.720876274753145,Female,2010,True,False,False,False,False
+1115,"China, Macao Special Administrative Region",7,446,B,54.03320502596497,Female,2010,True,False,False,False,False
+1116,Democratic People's Republic of Korea,No notes,408,I,50.54305839581913,Female,2010,False,False,False,True,False
+1117,Japan,No notes,392,C,55.02380103376004,Female,2010,False,True,False,False,False
+1118,Mongolia,No notes,496,C,26.03200298860594,Female,2010,False,True,False,False,False
+1119,Republic of Korea,No notes,410,C,42.88640504745588,Female,2010,False,True,False,False,False
+1120,South-Eastern Asia,No notes,920,F,48.08183653082083,Female,2010,False,False,False,False,True
+1121,Brunei Darussalam,No notes,96,B,43.608020917215946,Female,2010,True,False,False,False,False
+1122,Cambodia,No notes,116,B,47.07661905168523,Female,2010,True,False,False,False,False
+1123,Indonesia,No notes,360,B R,42.745632186918826,Female,2010,True,False,True,False,False
+1124,Lao People's Democratic Republic,No notes,418,C R,46.34411139957517,Female,2010,False,True,True,False,False
+1125,Malaysia,8,458,C R,40.26602538392385,Female,2010,False,True,True,False,False
+1126,Myanmar,No notes,104,C,45.593739367131676,Female,2010,False,True,False,False,False
+1127,Philippines,No notes,608,C R,48.2581412183184,Female,2010,False,True,True,False,False
+1128,Singapore,No notes,702,B,55.7992123038035,Female,2010,True,False,False,False,False
+1129,Thailand,No notes,764,B R,49.606421079044246,Female,2010,True,False,True,False,False
+1130,Timor-Leste,No notes,626,B,41.35482108713467,Female,2010,True,False,False,False,False
+1131,Viet Nam,No notes,704,C R,41.753028045857896,Female,2010,False,True,True,False,False
+1132,Southern Asia,No notes,5501,F,44.48333172909033,Female,2010,False,False,False,False,True
+1133,Afghanistan,No notes,4,B,43.55867222189621,Female,2010,True,False,False,False,False
+1134,Bangladesh,No notes,50,B R,13.458551398465755,Female,2010,True,False,True,False,False
+1135,Bhutan,No notes,64,B,18.870301528294092,Female,2010,True,False,False,False,False
+1136,India,No notes,356,B R,48.715602540980406,Female,2010,True,False,True,False,False
+1137,Iran (Islamic Republic of),No notes,364,B R,43.08570406375235,Female,2010,True,False,True,False,False
+1138,Maldives,No notes,462,C R,34.79294603554155,Female,2010,False,True,True,False,False
+1139,Nepal,No notes,524,B R,67.24864643476187,Female,2010,True,False,True,False,False
+1140,Pakistan,No notes,586,B R,47.37034787519542,Female,2010,True,False,True,False,False
+1141,Sri Lanka,No notes,144,B R,46.882620190456635,Female,2010,True,False,True,False,False
+1142,Western Asia,No notes,922,F,34.81494313034851,Female,2010,False,False,False,False,True
+1143,Armenia,No notes,51,B R,59.22323524101824,Female,2010,True,False,True,False,False
+1144,Azerbaijan,9,31,B R,53.228049013907494,Female,2010,True,False,True,False,False
+1145,Bahrain,No notes,48,C,27.658180513668647,Female,2010,False,True,False,False,False
+1146,Cyprus,10,196,B,56.21398125828132,Female,2010,True,False,False,False,False
+1147,Georgia,11,268,B,56.88960604164609,Female,2010,True,False,False,False,False
+1148,Iraq,No notes,368,C R,37.84340951877944,Female,2010,False,True,True,False,False
+1149,Israel,No notes,376,B R,54.35531870717697,Female,2010,True,False,True,False,False
+1150,Jordan,No notes,400,C R,49.161893408809384,Female,2010,False,True,True,False,False
+1151,Kuwait,No notes,414,C R,30.01399384570009,Female,2010,False,True,True,False,False
+1152,Lebanon,No notes,422,B R,47.924767411397,Female,2010,True,False,True,False,False
+1153,Oman,No notes,512,C,19.293181626054707,Female,2010,False,True,False,False,False
+1154,Qatar,No notes,634,C,17.15461205029068,Female,2010,False,True,False,False,False
+1155,Saudi Arabia,No notes,682,C R,29.616702625731378,Female,2010,False,True,True,False,False
+1156,State of Palestine,12,275,B,55.55279965275625,Female,2010,True,False,False,False,False
+1157,Syrian Arab Republic,No notes,760,C R,48.92455843294691,Female,2010,False,True,True,False,False
+1158,Turkey,No notes,792,B R,54.21035614330002,Female,2010,True,False,True,False,False
+1159,United Arab Emirates,No notes,784,C R,25.32724508655715,Female,2010,False,True,True,False,False
+1160,Yemen,No notes,887,C R,45.87474679625101,Female,2010,False,True,True,False,False
+1161,Europe,No notes,908,F,52.08851898704182,Female,2010,False,False,False,False,True
+1162,Eastern Europe,No notes,923,F,52.746128836906806,Female,2010,False,False,False,False,True
+1163,Belarus,No notes,112,B,54.20083677403616,Female,2010,True,False,False,False,False
+1164,Bulgaria,No notes,100,B,55.63988621914612,Female,2010,True,False,False,False,False
+1165,Czech Republic,No notes,203,C,40.687557348819084,Female,2010,False,True,False,False,False
+1166,Hungary,No notes,348,B R,51.854260952415856,Female,2010,True,False,True,False,False
+1167,Poland,No notes,616,B,59.17558221529007,Female,2010,True,False,False,False,False
+1168,Republic of Moldova,13,498,B,61.60222746530685,Female,2010,True,False,False,False,False
+1169,Romania,No notes,642,B,50.31542101011656,Female,2010,True,False,False,False,False
+1170,Russian Federation,No notes,643,B,50.74101070952263,Female,2010,True,False,False,False,False
+1171,Slovakia,No notes,703,B,54.25201101702445,Female,2010,True,False,False,False,False
+1172,Ukraine,No notes,804,B,56.991612169669125,Female,2010,True,False,False,False,False
+1173,Northern Europe,No notes,924,F,51.92090562707875,Female,2010,False,False,False,False,True
+1174,Channel Islands,14,830,B,52.331111999071936,Female,2010,True,False,False,False,False
+1175,Denmark,No notes,208,B,51.69753207517558,Female,2010,True,False,False,False,False
+1176,Estonia,No notes,233,B,59.776033778512094,Female,2010,True,False,False,False,False
+1177,Faeroe Islands,No notes,234,B,47.017268445839875,Female,2010,True,False,False,False,False
+1178,Finland,15,246,B,49.467427005460735,Female,2010,True,False,False,False,False
+1179,Iceland,No notes,352,B,49.79054458408139,Female,2010,True,False,False,False,False
+1180,Ireland,No notes,372,B,50.66128983686086,Female,2010,True,False,False,False,False
+1181,Isle of Man,No notes,833,B,50.83434989757636,Female,2010,True,False,False,False,False
+1182,Latvia,No notes,428,B,60.26750715455756,Female,2010,True,False,False,False,False
+1183,Lithuania,No notes,440,B,56.7051476625283,Female,2010,True,False,False,False,False
+1184,Norway,16,578,B,49.03084478140619,Female,2010,True,False,False,False,False
+1185,Sweden,No notes,752,B,51.39945802275785,Female,2010,True,False,False,False,False
+1186,United Kingdom of Great Britain and Northern Ireland,No notes,826,B,51.77663259116246,Female,2010,True,False,False,False,False
+1187,Southern Europe,No notes,925,F,51.424268236214665,Female,2010,False,False,False,False,True
+1188,Albania,No notes,8,B,49.03569263413156,Female,2010,True,False,False,False,False
+1189,Andorra,No notes,20,C,47.196127024378995,Female,2010,False,True,False,False,False
+1190,Bosnia and Herzegovina,No notes,70,I R,52.29944318416169,Female,2010,False,False,False,True,False
+1191,Croatia,No notes,191,B R,53.16756447471251,Female,2010,True,False,True,False,False
+1192,Gibraltar,No notes,292,B,50.13019577587038,Female,2010,True,False,False,False,False
+1193,Greece,No notes,300,B,51.521127403919984,Female,2010,True,False,False,False,False
+1194,Holy See,17,336,I,52.816020025031285,Female,2010,False,False,False,True,False
+1195,Italy,No notes,380,B,53.97480568490123,Female,2010,True,False,False,False,False
+1196,Malta,No notes,470,B,49.289686857695564,Female,2010,True,False,False,False,False
+1197,Montenegro,No notes,499,B,59.702956424267896,Female,2010,True,False,False,False,False
+1198,Portugal,No notes,620,B,51.29472683774129,Female,2010,True,False,False,False,False
+1199,San Marino,No notes,674,B,44.646510570584226,Female,2010,True,False,False,False,False
+1200,Serbia,18,688,B,55.85655383468149,Female,2010,True,False,False,False,False
+1201,Slovenia,No notes,705,B,44.32908040632659,Female,2010,True,False,False,False,False
+1202,Spain,19,724,B,48.436234338338856,Female,2010,True,False,False,False,False
+1203,The former Yugoslav Republic of Macedonia,No notes,807,B,58.31412248170793,Female,2010,True,False,False,False,False
+1204,Western Europe,No notes,926,F,52.09432324373849,Female,2010,False,False,False,False,True
+1205,Austria,No notes,40,B,52.27885441288033,Female,2010,True,False,False,False,False
+1206,Belgium,No notes,56,C,49.222486902143146,Female,2010,False,True,False,False,False
+1207,France,No notes,250,B,51.24105795596486,Female,2010,True,False,False,False,False
+1208,Germany,No notes,276,B,52.43972568627975,Female,2010,True,False,False,False,False
+1209,Liechtenstein,No notes,438,B,51.360666010204994,Female,2010,True,False,False,False,False
+1210,Luxembourg,No notes,442,B,50.092557403979356,Female,2010,True,False,False,False,False
+1211,Monaco,No notes,492,B,51.14045050160894,Female,2010,True,False,False,False,False
+1212,Netherlands,No notes,528,B,51.90945752001353,Female,2010,True,False,False,False,False
+1213,Switzerland,No notes,756,B,54.803434108430004,Female,2010,True,False,False,False,False
+1214,Latin America and the Caribbean,No notes,904,F,50.34778751018808,Female,2010,False,False,False,False,True
+1215,Caribbean,No notes,915,F,48.82056754242301,Female,2010,False,False,False,False,True
+1216,Anguilla,No notes,660,B,52.674897119341566,Female,2010,True,False,False,False,False
+1217,Antigua and Barbuda,No notes,28,B,55.368771770407385,Female,2010,True,False,False,False,False
+1218,Aruba,No notes,533,B,55.396626562181375,Female,2010,True,False,False,False,False
+1219,Bahamas,No notes,44,B,49.06825489622918,Female,2010,True,False,False,False,False
+1220,Barbados,No notes,52,B,55.07692307692308,Female,2010,True,False,False,False,False
+1221,"Bonaire, Sint Eustatius and Saba",20,535,B,51.681957186544345,Female,2010,True,False,False,False,False
+1222,British Virgin Islands,No notes,92,B,50.71988687491965,Female,2010,True,False,False,False,False
+1223,Cayman Islands,No notes,136,C,48.821548821548824,Female,2010,False,True,False,False,False
+1224,Cuba,No notes,192,B,55.38534215143744,Female,2010,True,False,False,False,False
+1225,Curaçao,No notes,531,B,59.00597799405089,Female,2010,True,False,False,False,False
+1226,Dominica,No notes,212,B,47.49349522983521,Female,2010,True,False,False,False,False
+1227,Dominican Republic,No notes,214,B,39.36249111043381,Female,2010,True,False,False,False,False
+1228,Grenada,No notes,308,B,50.38681948424069,Female,2010,True,False,False,False,False
+1229,Guadeloupe,21,312,B,54.95355058878052,Female,2010,True,False,False,False,False
+1230,Haiti,No notes,332,B,42.56494986326344,Female,2010,True,False,False,False,False
+1231,Jamaica,No notes,388,B,49.216539257507286,Female,2010,True,False,False,False,False
+1232,Martinique,No notes,474,B,55.80360889634915,Female,2010,True,False,False,False,False
+1233,Montserrat,No notes,500,B,48.5512920908379,Female,2010,True,False,False,False,False
+1234,Puerto Rico,No notes,630,B,53.12999026130525,Female,2010,True,False,False,False,False
+1235,Saint Kitts and Nevis,No notes,659,B,47.4672187715666,Female,2010,True,False,False,False,False
+1236,Saint Lucia,No notes,662,B,49.53719008264463,Female,2010,True,False,False,False,False
+1237,Saint Vincent and the Grenadines,No notes,670,B,51.17056856187291,Female,2010,True,False,False,False,False
+1238,Sint Maarten (Dutch part),No notes,534,B,52.022900763358784,Female,2010,True,False,False,False,False
+1239,Trinidad and Tobago,No notes,780,B,51.992701032638,Female,2010,True,False,False,False,False
+1240,Turks and Caicos Islands,No notes,796,B,48.257471264367815,Female,2010,True,False,False,False,False
+1241,United States Virgin Islands,No notes,850,B,52.85794933314516,Female,2010,True,False,False,False,False
+1242,Central America,No notes,916,F,50.02954387007554,Female,2010,False,False,False,False,True
+1243,Belize,No notes,84,B R ,49.398188093183784,Female,2010,False,False,False,False,False
+1244,Costa Rica,No notes,188,B R,51.68449250624069,Female,2010,True,False,True,False,False
+1245,El Salvador,No notes,222,B R,52.51463148497173,Female,2010,True,False,True,False,False
+1246,Guatemala,No notes,320,B R,53.42703060978549,Female,2010,True,False,True,False,False
+1247,Honduras,No notes,340,B R,47.57402521254764,Female,2010,True,False,True,False,False
+1248,Mexico,No notes,484,B R,49.38919361592841,Female,2010,True,False,True,False,False
+1249,Nicaragua,No notes,558,B R,48.76382824846651,Female,2010,True,False,True,False,False
+1250,Panama,No notes,591,B,48.5528482159317,Female,2010,True,False,False,False,False
+1251,South America,No notes,931,F,50.855676599606895,Female,2010,False,False,False,False,True
+1252,Argentina,No notes,32,B,53.94707625929078,Female,2010,True,False,False,False,False
+1253,Bolivia (Plurinational State of),No notes,68,B,47.59292121843609,Female,2010,True,False,False,False,False
+1254,Brazil,No notes,76,B,46.01767223339769,Female,2010,True,False,False,False,False
+1255,Chile,No notes,152,B,52.87979514719735,Female,2010,True,False,False,False,False
+1256,Colombia,No notes,170,B,47.19443796219552,Female,2010,True,False,False,False,False
+1257,Ecuador,No notes,218,B R,48.43560790002643,Female,2010,True,False,True,False,False
+1258,Falkland Islands (Malvinas),No notes,238,B,43.80222841225627,Female,2010,True,False,False,False,False
+1259,French Guiana,No notes,254,B,51.640910601528745,Female,2010,True,False,False,False,False
+1260,Guyana,No notes,328,B,46.495505104373,Female,2010,True,False,False,False,False
+1261,Paraguay,No notes,600,B,47.97596990623772,Female,2010,True,False,False,False,False
+1262,Peru,No notes,604,B,49.79658839483263,Female,2010,True,False,False,False,False
+1263,Suriname,No notes,740,C,45.461183995165314,Female,2010,False,True,False,False,False
+1264,Uruguay,No notes,858,B,54.75263233809318,Female,2010,True,False,False,False,False
+1265,Venezuela (Bolivarian Republic of),No notes,862,B,49.833344348578436,Female,2010,True,False,False,False,False
+1266,Northern America,No notes,905,F,51.06631077615125,Female,2010,False,False,False,False,True
+1267,Bermuda,No notes,60,B,51.27091717856387,Female,2010,True,False,False,False,False
+1268,Canada,No notes,124,B,52.13089693585686,Female,2010,True,False,False,False,False
+1269,Greenland,No notes,304,B,32.380340507548986,Female,2010,True,False,False,False,False
+1270,Saint Pierre and Miquelon,No notes,666,B,47.78761061946903,Female,2010,True,False,False,False,False
+1271,United States of America,No notes,840,B,50.89999935043835,Female,2010,True,False,False,False,False
+1272,Oceania,No notes,909,F,50.34111941509234,Female,2010,False,False,False,False,True
+1273,Australia and New Zealand,No notes,927,F,50.499742109676085,Female,2010,False,False,False,False,True
+1274,Australia,22,36,B,50.33078473834689,Female,2010,True,False,False,False,False
+1275,New Zealand,No notes,554,B,51.548853070844366,Female,2010,True,False,False,False,False
+1276,Melanesia,No notes,928,F,43.77010711176715,Female,2010,False,False,False,False,True
+1277,Fiji,No notes,242,B,46.54333008763388,Female,2010,True,False,False,False,False
+1278,New Caledonia,No notes,540,B,46.22780339448641,Female,2010,True,False,False,False,False
+1279,Papua New Guinea,No notes,598,C R,35.612020138451854,Female,2010,False,True,True,False,False
+1280,Solomon Islands,No notes,90,B,43.98550724637681,Female,2010,True,False,False,False,False
+1281,Vanuatu,No notes,548,B,50.28418589100635,Female,2010,True,False,False,False,False
+1282,Micronesia,No notes,954,F,49.64514602778614,Female,2010,False,False,False,False,True
+1283,Guam,No notes,316,B,48.38761005622149,Female,2010,True,False,False,False,False
+1284,Kiribati,No notes,296,B,47.28033472803347,Female,2010,True,False,False,False,False
+1285,Marshall Islands,No notes,584,B,38.65328585302687,Female,2010,True,False,False,False,False
+1286,Micronesia (Federated States of),No notes,583,B,46.45276292335116,Female,2010,True,False,False,False,False
+1287,Nauru,No notes,520,C,46.35416666666667,Female,2010,False,True,False,False,False
+1288,Northern Mariana Islands,No notes,580,B,57.70026481297583,Female,2010,True,False,False,False,False
+1289,Palau,No notes,585,B,42.18074995679972,Female,2010,True,False,False,False,False
+1290,Polynesia,No notes,957,F,46.12118555853832,Female,2010,False,False,False,False,True
+1291,American Samoa,No notes,16,B,48.63935470176183,Female,2010,True,False,False,False,False
+1292,Cook Islands,No notes,184,B,49.72141151499071,Female,2010,True,False,False,False,False
+1293,French Polynesia,No notes,258,B,42.99304677623262,Female,2010,True,False,False,False,False
+1294,Niue,No notes,570,B,45.87155963302752,Female,2010,True,False,False,False,False
+1295,Samoa,No notes,882,B,49.35572042171027,Female,2010,True,False,False,False,False
+1296,Tokelau,No notes,772,B,51.981351981351985,Female,2010,True,False,False,False,False
+1297,Tonga,No notes,776,B,45.69892473118279,Female,2010,True,False,False,False,False
+1298,Tuvalu,No notes,798,C,44.8051948051948,Female,2010,False,True,False,False,False
+1299,Wallis and Futuna Islands,No notes,876,B,49.53170028818444,Female,2010,True,False,False,False,False
+1300,Sub-Saharan Africa,e,947,F,46.82798018277996,Female,2015,False,False,False,False,True
+1301,Africa,No notes,903,F,46.1323891839423,Female,2015,False,False,False,False,True
+1302,Eastern Africa,No notes,910,F,49.27200722192591,Female,2015,False,False,False,False,True
+1303,Burundi,No notes,108,B R,50.73010006624594,Female,2015,True,False,True,False,False
+1304,Comoros,No notes,174,B,51.64476304261251,Female,2015,True,False,False,False,False
+1305,Djibouti,No notes,262,B R,47.4139081984139,Female,2015,True,False,True,False,False
+1306,Eritrea,No notes,232,I,44.58942349915313,Female,2015,False,False,False,True,False
+1307,Ethiopia,No notes,231,B R,49.013233620610116,Female,2015,True,False,True,False,False
+1308,Kenya,No notes,404,B R,50.04929188449929,Female,2015,True,False,True,False,False
+1309,Madagascar,No notes,450,C,43.03975058456742,Female,2015,False,True,False,False,False
+1310,Malawi,No notes,454,B R,52.340140733786335,Female,2015,True,False,True,False,False
+1311,Mauritius,1,480,C,44.61430820360329,Female,2015,False,True,False,False,False
+1312,Mayotte,No notes,175,B,53.731556525353284,Female,2015,True,False,False,False,False
+1313,Mozambique,No notes,508,B R,51.57405081461279,Female,2015,True,False,True,False,False
+1314,Réunion,No notes,638,B,49.266954382158495,Female,2015,True,False,False,False,False
+1315,Rwanda,No notes,646,B R,50.168846611177166,Female,2015,True,False,True,False,False
+1316,Seychelles,No notes,690,B,29.99765460089125,Female,2015,True,False,False,False,False
+1317,Somalia,No notes,706,I R,45.59329405717449,Female,2015,False,False,False,True,False
+1318,South Sudan,No notes,728,B R,48.921518901327715,Female,2015,True,False,True,False,False
+1319,Uganda,No notes,800,B R,50.03969466463679,Female,2015,True,False,True,False,False
+1320,United Republic of Tanzania,2,834,B R,50.0792429427843,Female,2015,True,False,True,False,False
+1321,Zambia,No notes,894,B R,49.56650900988938,Female,2015,True,False,True,False,False
+1322,Zimbabwe,No notes,716,B R,42.99363696078382,Female,2015,True,False,True,False,False
+1323,Middle Africa,No notes,911,F,49.75884954985249,Female,2015,False,False,False,False,True
+1324,Angola,No notes,24,B R,51.83583696008236,Female,2015,True,False,True,False,False
+1325,Cameroon,No notes,120,B,51.14847742313814,Female,2015,True,False,False,False,False
+1326,Central African Republic,No notes,140,C,47.10287016838648,Female,2015,False,True,False,False,False
+1327,Chad,No notes,148,B R,53.93525324584887,Female,2015,True,False,True,False,False
+1328,Congo,No notes,178,B,45.22234322995654,Female,2015,True,False,False,False,False
+1329,Democratic Republic of the Congo,No notes,180,B R,51.53969074243074,Female,2015,True,False,True,False,False
+1330,Equatorial Guinea,No notes,226,C,44.75750577367206,Female,2015,False,True,False,False,False
+1331,Gabon,No notes,266,C,42.93847621318708,Female,2015,False,True,False,False,False
+1332,Sao Tome and Principe,No notes,678,C,50.0,Female,2015,False,True,False,False,False
+1333,Northern Africa,No notes,912,F,40.7856147709546,Female,2015,False,False,False,False,True
+1334,Algeria,No notes,12,C R,45.158854907979254,Female,2015,False,True,True,False,False
+1335,Egypt,No notes,818,B R,46.088116783926544,Female,2015,True,False,True,False,False
+1336,Libya,No notes,434,C,28.78741509389921,Female,2015,False,True,False,False,False
+1337,Morocco,No notes,504,C,49.84804148636893,Female,2015,False,True,False,False,False
+1338,Sudan,3,729,B R,49.4455556063137,Female,2015,True,False,True,False,False
+1339,Tunisia,No notes,788,C,48.23548085571683,Female,2015,False,True,False,False,False
+1340,Western Sahara,No notes,732,I,40.93454334813671,Female,2015,False,False,False,True,False
+1341,Southern Africa,No notes,913,F,40.59310769639211,Female,2015,False,False,False,False,True
+1342,Botswana,No notes,72,C,45.299544334055426,Female,2015,False,True,False,False,False
+1343,Lesotho,No notes,426,C R,45.861229458307974,Female,2015,False,True,True,False,False
+1344,Namibia,No notes,516,B,46.01333503749148,Female,2015,True,False,False,False,False
+1345,South Africa,No notes,710,B R,40.10280314054589,Female,2015,True,False,True,False,False
+1346,Swaziland,No notes,748,B R,48.23141961430064,Female,2015,True,False,True,False,False
+1347,Western Africa,No notes,914,F,46.57971562800955,Female,2015,False,False,False,False,True
+1348,Benin,No notes,204,C B R,43.902786889922126,Female,2015,False,False,False,True,False
+1349,Burkina Faso,No notes,854,B R,52.41387531290977,Female,2015,True,False,True,False,False
+1350,Cabo Verde,No notes,132,B,49.4304476011793,Female,2015,True,False,False,False,False
+1351,Côte d'Ivoire,No notes,384,C B,44.625514675698575,Female,2015,False,False,False,False,False
+1352,Gambia,No notes,270,B,47.283161940376026,Female,2015,True,False,False,False,False
+1353,Ghana,No notes,288,B,45.567012373864436,Female,2015,True,False,False,False,False
+1354,Guinea,No notes,324,C R,50.71077390516302,Female,2015,False,True,True,False,False
+1355,Guinea-Bissau,No notes,624,B R,51.524649621636144,Female,2015,True,False,True,False,False
+1356,Liberia,No notes,430,B,42.97805394668612,Female,2015,True,False,False,False,False
+1357,Mali,No notes,466,B R,48.75022373982844,Female,2015,True,False,True,False,False
+1358,Mauritania,No notes,478,C R,41.93048739885062,Female,2015,False,True,True,False,False
+1359,Niger,No notes,562,B R,52.58725000660485,Female,2015,True,False,True,False,False
+1360,Nigeria,No notes,566,C R,45.13562085371295,Female,2015,False,True,True,False,False
+1361,Saint Helena,4,654,B,44.5364238410596,Female,2015,True,False,False,False,False
+1362,Senegal,No notes,686,B R,46.9351395294064,Female,2015,True,False,True,False,False
+1363,Sierra Leone,No notes,694,B R,45.22491311545503,Female,2015,True,False,True,False,False
+1364,Togo,No notes,768,C R,49.68357631012411,Female,2015,False,True,True,False,False
+1365,Asia,No notes,935,F,41.99552017900638,Female,2015,False,False,False,False,True
+1366,Central Asia,No notes,5500,F,51.855936326365935,Female,2015,False,False,False,False,True
+1367,Kazakhstan,No notes,398,B,50.42875533794334,Female,2015,True,False,False,False,False
+1368,Kyrgyzstan,No notes,417,B,59.57765360941766,Female,2015,True,False,False,False,False
+1369,Tajikistan,No notes,762,B,56.88306872343751,Female,2015,True,False,False,False,False
+1370,Turkmenistan,No notes,795,B,53.39637245017465,Female,2015,True,False,False,False,False
+1371,Uzbekistan,No notes,860,B,53.391880939346606,Female,2015,True,False,False,False,False
+1372,Eastern Asia,No notes,906,F,52.91651248773645,Female,2015,False,False,False,False,True
+1373,China,5,156,C,38.63928690470592,Female,2015,False,True,False,False,False
+1374,"China, Hong Kong Special Administrative Region",6,344,B,60.54634837150562,Female,2015,True,False,False,False,False
+1375,"China, Macao Special Administrative Region",7,446,B,54.56940849656991,Female,2015,True,False,False,False,False
+1376,Democratic People's Republic of Korea,No notes,408,I,50.24557348631805,Female,2015,False,False,False,True,False
+1377,Japan,No notes,392,C,55.023761214593634,Female,2015,False,True,False,False,False
+1378,Mongolia,No notes,496,C,27.031782065834282,Female,2015,False,True,False,False,False
+1379,Republic of Korea,No notes,410,C,43.888831965669276,Female,2015,False,True,False,False,False
+1380,South-Eastern Asia,No notes,920,F,48.12998379970575,Female,2015,False,False,False,False,True
+1381,Brunei Darussalam,No notes,96,B,43.36678574557348,Female,2015,True,False,False,False,False
+1382,Cambodia,No notes,116,B,46.11630139394021,Female,2015,True,False,False,False,False
+1383,Indonesia,No notes,360,B R,42.28301393357377,Female,2015,True,False,True,False,False
+1384,Lao People's Democratic Republic,No notes,418,C R,46.34058622549901,Female,2015,False,True,True,False,False
+1385,Malaysia,8,458,C R,39.16140961712929,Female,2015,False,True,True,False,False
+1386,Myanmar,No notes,104,C,45.194248922354994,Female,2015,False,True,False,False,False
+1387,Philippines,No notes,608,C R,48.181835345649525,Female,2015,False,True,True,False,False
+1388,Singapore,No notes,702,B,55.85118637164565,Female,2015,True,False,False,False,False
+1389,Thailand,No notes,764,B R,49.72243077251743,Female,2015,True,False,True,False,False
+1390,Timor-Leste,No notes,626,B,41.083625623038586,Female,2015,True,False,False,False,False
+1391,Viet Nam,No notes,704,C R,42.071353014712955,Female,2015,False,True,True,False,False
+1392,Southern Asia,No notes,5501,F,45.40872376447512,Female,2015,False,False,False,False,True
+1393,Afghanistan,No notes,4,B,49.40828789245877,Female,2015,True,False,False,False,False
+1394,Bangladesh,No notes,50,B R,13.325719265816469,Female,2015,True,False,True,False,False
+1395,Bhutan,No notes,64,B,18.91167377607326,Female,2015,True,False,False,False,False
+1396,India,No notes,356,B R,48.7750335816339,Female,2015,True,False,True,False,False
+1397,Iran (Islamic Republic of),No notes,364,B R,46.991439323361774,Female,2015,True,False,True,False,False
+1398,Maldives,No notes,462,C R,29.702612503454283,Female,2015,False,True,True,False,False
+1399,Nepal,No notes,524,B R,68.96433960152659,Female,2015,True,False,True,False,False
+1400,Pakistan,No notes,586,B R,48.90717881396192,Female,2015,True,False,True,False,False
+1401,Sri Lanka,No notes,144,B R,47.695447734201416,Female,2015,True,False,True,False,False
+1402,Western Asia,No notes,922,F,35.57315406142008,Female,2015,False,False,False,False,True
+1403,Armenia,No notes,51,B R,59.499788178808465,Female,2015,True,False,True,False,False
+1404,Azerbaijan,9,31,B R,52.089191306421036,Female,2015,True,False,True,False,False
+1405,Bahrain,No notes,48,C,27.717759470103122,Female,2015,False,True,False,False,False
+1406,Cyprus,10,196,B,55.66022827488823,Female,2015,True,False,False,False,False
+1407,Georgia,11,268,B,56.83641189085438,Female,2015,True,False,False,False,False
+1408,Iraq,No notes,368,C R,41.4681771555975,Female,2015,False,True,True,False,False
+1409,Israel,No notes,376,B R,54.62112901004957,Female,2015,True,False,True,False,False
+1410,Jordan,No notes,400,C R,49.64126263726588,Female,2015,False,True,True,False,False
+1411,Kuwait,No notes,414,C R,34.119664942626585,Female,2015,False,True,True,False,False
+1412,Lebanon,No notes,422,B R,51.947916082683946,Female,2015,True,False,True,False,False
+1413,Oman,No notes,512,C,18.949711053465137,Female,2015,False,True,False,False,False
+1414,Qatar,No notes,634,C,16.074459007845274,Female,2015,False,True,False,False,False
+1415,Saudi Arabia,No notes,682,C R,31.880664975120126,Female,2015,False,True,True,False,False
+1416,State of Palestine,12,275,B,55.68144904053509,Female,2015,True,False,False,False,False
+1417,Syrian Arab Republic,No notes,760,C R,48.864988019730596,Female,2015,False,True,True,False,False
+1418,Turkey,No notes,792,B R,48.92037413538866,Female,2015,True,False,True,False,False
+1419,United Arab Emirates,No notes,784,C R,25.325646568070713,Female,2015,False,True,True,False,False
+1420,Yemen,No notes,887,C R,47.570256675510194,Female,2015,False,True,True,False,False
+1421,Europe,No notes,908,F,52.36435543246329,Female,2015,False,False,False,False,True
+1422,Eastern Europe,No notes,923,F,52.725974234261244,Female,2015,False,False,False,False,True
+1423,Belarus,No notes,112,B,54.20087634649392,Female,2015,True,False,False,False,False
+1424,Bulgaria,No notes,100,B,53.539706011967134,Female,2015,True,False,False,False,False
+1425,Czech Republic,No notes,203,C,42.754626715346845,Female,2015,False,True,False,False,False
+1426,Hungary,No notes,348,B R,50.86804319977226,Female,2015,True,False,True,False,False
+1427,Poland,No notes,616,B,58.458225097392166,Female,2015,True,False,False,False,False
+1428,Republic of Moldova,13,498,B,64.63010132676482,Female,2015,True,False,False,False,False
+1429,Romania,No notes,642,B,47.40353304574276,Female,2015,True,False,False,False,False
+1430,Russian Federation,No notes,643,B,50.914064048640604,Female,2015,True,False,False,False,False
+1431,Slovakia,No notes,703,B,52.75467012811107,Female,2015,True,False,False,False,False
+1432,Ukraine,No notes,804,B,56.91263807426754,Female,2015,True,False,False,False,False
+1433,Northern Europe,No notes,924,F,52.12360373318955,Female,2015,False,False,False,False,True
+1434,Channel Islands,14,830,B,52.205766216725195,Female,2015,True,False,False,False,False
+1435,Denmark,No notes,208,B,51.6001187731433,Female,2015,True,False,False,False,False
+1436,Estonia,No notes,233,B,59.85282780160911,Female,2015,True,False,False,False,False
+1437,Faeroe Islands,No notes,234,B,49.33840855537429,Female,2015,True,False,False,False,False
+1438,Finland,15,246,B,49.142240274027245,Female,2015,True,False,False,False,False
+1439,Iceland,No notes,352,B,51.612387399392354,Female,2015,True,False,False,False,False
+1440,Ireland,No notes,372,B,51.28762093640287,Female,2015,True,False,False,False,False
+1441,Isle of Man,No notes,833,B,50.48097123018067,Female,2015,True,False,False,False,False
+1442,Latvia,No notes,428,B,60.979530719123154,Female,2015,True,False,False,False,False
+1443,Lithuania,No notes,440,B,57.95010144373548,Female,2015,True,False,False,False,False
+1444,Norway,16,578,B,47.817307057169394,Female,2015,True,False,False,False,False
+1445,Sweden,No notes,752,B,50.58706368145308,Female,2015,True,False,False,False,False
+1446,United Kingdom of Great Britain and Northern Ireland,No notes,826,B,52.47413123074474,Female,2015,True,False,False,False,False
+1447,Southern Europe,No notes,925,F,53.16905945223059,Female,2015,False,False,False,False,True
+1448,Albania,No notes,8,B,49.036725909469595,Female,2015,True,False,False,False,False
+1449,Andorra,No notes,20,C,47.19595076279644,Female,2015,False,True,False,False,False
+1450,Bosnia and Herzegovina,No notes,70,I R,52.30583570381864,Female,2015,False,False,False,True,False
+1451,Croatia,No notes,191,B R,53.32034398656227,Female,2015,True,False,True,False,False
+1452,Gibraltar,No notes,292,B,49.4713059195662,Female,2015,True,False,False,False,False
+1453,Greece,No notes,300,B,53.64824863140375,Female,2015,True,False,False,False,False
+1454,Holy See,17,336,I,53.25,Female,2015,False,False,False,True,False
+1455,Italy,No notes,380,B,54.94027768780635,Female,2015,True,False,False,False,False
+1456,Malta,No notes,470,B,46.988562328072966,Female,2015,True,False,False,False,False
+1457,Montenegro,No notes,499,B,59.35716795289614,Female,2015,True,False,False,False,False
+1458,Portugal,No notes,620,B,53.47462009872716,Female,2015,True,False,False,False,False
+1459,San Marino,No notes,674,B,45.367818528725884,Female,2015,True,False,False,False,False
+1460,Serbia,18,688,B,56.01164667139766,Female,2015,True,False,False,False,False
+1461,Slovenia,No notes,705,B,43.00407685853047,Female,2015,True,False,False,False,False
+1462,Spain,19,724,B,51.218145780429126,Female,2015,True,False,False,False,False
+1463,The former Yugoslav Republic of Macedonia,No notes,807,B,58.314082460032125,Female,2015,True,False,False,False,False
+1464,Western Europe,No notes,926,F,51.75882599341842,Female,2015,False,False,False,False,True
+1465,Austria,No notes,40,B,51.99125688332818,Female,2015,True,False,False,False,False
+1466,Belgium,No notes,56,C,48.474573828839866,Female,2015,False,True,False,False,False
+1467,France,No notes,250,B,51.40781237595412,Female,2015,True,False,False,False,False
+1468,Germany,No notes,276,B,52.439726496352975,Female,2015,True,False,False,False,False
+1469,Liechtenstein,No notes,438,B,51.355722981313576,Female,2015,True,False,False,False,False
+1470,Luxembourg,No notes,442,B,49.39135666299007,Female,2015,True,False,False,False,False
+1471,Monaco,No notes,492,B,50.926717992586255,Female,2015,True,False,False,False,False
+1472,Netherlands,No notes,528,B,52.38774106005296,Female,2015,True,False,False,False,False
+1473,Switzerland,No notes,756,B,50.996759751703976,Female,2015,True,False,False,False,False
+1474,Latin America and the Caribbean,No notes,904,F,50.36759303048769,Female,2015,False,False,False,False,True
+1475,Caribbean,No notes,915,F,48.72558060621308,Female,2015,False,False,False,False,True
+1476,Anguilla,No notes,660,B,52.59597806215722,Female,2015,True,False,False,False,False
+1477,Antigua and Barbuda,No notes,28,B,55.40362496884236,Female,2015,True,False,False,False,False
+1478,Aruba,No notes,533,B,55.39679902530874,Female,2015,True,False,False,False,False
+1479,Bahamas,No notes,44,B,49.42501601861532,Female,2015,True,False,False,False,False
+1480,Barbados,No notes,52,B,55.07469180565627,Female,2015,True,False,False,False,False
+1481,"Bonaire, Sint Eustatius and Saba",20,535,B,51.60744500846024,Female,2015,True,False,False,False,False
+1482,British Virgin Islands,No notes,92,B,50.71643170788075,Female,2015,True,False,False,False,False
+1483,Cayman Islands,No notes,136,C,48.819860069122484,Female,2015,False,True,False,False,False
+1484,Cuba,No notes,192,B,55.38392321535694,Female,2015,True,False,False,False,False
+1485,Curaçao,No notes,531,B,58.87639254473426,Female,2015,True,False,False,False,False
+1486,Dominica,No notes,212,B,47.5,Female,2015,True,False,False,False,False
+1487,Dominican Republic,No notes,214,B,39.38599108681214,Female,2015,True,False,False,False,False
+1488,Grenada,No notes,308,B,50.37551367436588,Female,2015,True,False,False,False,False
+1489,Guadeloupe,21,312,B,55.47727572659811,Female,2015,True,False,False,False,False
+1490,Haiti,No notes,332,B,42.386602241392396,Female,2015,True,False,False,False,False
+1491,Jamaica,No notes,388,B,49.21224155048129,Female,2015,True,False,False,False,False
+1492,Martinique,No notes,474,B,56.27966499813708,Female,2015,True,False,False,False,False
+1493,Montserrat,No notes,500,B,48.48260547742413,Female,2015,True,False,False,False,False
+1494,Puerto Rico,No notes,630,B,53.354887043044386,Female,2015,True,False,False,False,False
+1495,Saint Kitts and Nevis,No notes,659,B,47.386806395270725,Female,2015,True,False,False,False,False
+1496,Saint Lucia,No notes,662,B,49.52627045650301,Female,2015,True,False,False,False,False
+1497,Saint Vincent and the Grenadines,No notes,670,B,51.12519117325759,Female,2015,True,False,False,False,False
+1498,Sint Maarten (Dutch part),No notes,534,B,52.09012639677597,Female,2015,True,False,False,False,False
+1499,Trinidad and Tobago,No notes,780,B,51.23388729627328,Female,2015,True,False,False,False,False
+1500,Turks and Caicos Islands,No notes,796,B,48.26317590691308,Female,2015,True,False,False,False,False
+1501,United States Virgin Islands,No notes,850,B,52.87812274113644,Female,2015,True,False,False,False,False
+1502,Central America,No notes,916,F,49.95978238865653,Female,2015,False,False,False,False,True
+1503,Belize,No notes,84,B R ,49.69922020051987,Female,2015,False,False,False,False,False
+1504,Costa Rica,No notes,188,B R,51.95294251559769,Female,2015,True,False,True,False,False
+1505,El Salvador,No notes,222,B R,52.441431799262695,Female,2015,True,False,True,False,False
+1506,Guatemala,No notes,320,B R,52.67183570829841,Female,2015,True,False,True,False,False
+1507,Honduras,No notes,340,B R,47.18204488778055,Female,2015,True,False,True,False,False
+1508,Mexico,No notes,484,B R,49.32183999564181,Female,2015,True,False,True,False,False
+1509,Nicaragua,No notes,558,B R,48.52963091749044,Female,2015,True,False,True,False,False
+1510,Panama,No notes,591,B,48.65410643711765,Female,2015,True,False,False,False,False
+1511,South America,No notes,931,F,50.89575419326171,Female,2015,False,False,False,False,True
+1512,Argentina,No notes,32,B,53.97070989722486,Female,2015,True,False,False,False,False
+1513,Bolivia (Plurinational State of),No notes,68,B,47.591073439215606,Female,2015,True,False,False,False,False
+1514,Brazil,No notes,76,B,46.01761850307189,Female,2015,True,False,False,False,False
+1515,Chile,No notes,152,B,52.879625763682384,Female,2015,True,False,False,False,False
+1516,Colombia,No notes,170,B,46.736370874457315,Female,2015,True,False,False,False,False
+1517,Ecuador,No notes,218,B R,48.29799258347462,Female,2015,True,False,True,False,False
+1518,Falkland Islands (Malvinas),No notes,238,B,44.43029917250159,Female,2015,True,False,False,False,False
+1519,French Guiana,No notes,254,B,52.502167602819775,Female,2015,True,False,False,False,False
+1520,Guyana,No notes,328,B,46.509360374414975,Female,2015,True,False,False,False,False
+1521,Paraguay,No notes,600,B,48.03658396287916,Female,2015,True,False,False,False,False
+1522,Peru,No notes,604,B,49.59892606815506,Female,2015,True,False,False,False,False
+1523,Suriname,No notes,740,C,45.40737893927748,Female,2015,False,True,False,False,False
+1524,Uruguay,No notes,858,B,54.76956503572473,Female,2015,True,False,False,False,False
+1525,Venezuela (Bolivarian Republic of),No notes,862,B,49.91213629838912,Female,2015,True,False,False,False,False
+1526,Northern America,No notes,905,F,51.20756266548722,Female,2015,False,False,False,False,True
+1527,Bermuda,No notes,60,B,51.186866046219805,Female,2015,True,False,False,False,False
+1528,Canada,No notes,124,B,52.16302669567311,Female,2015,True,False,False,False,False
+1529,Greenland,No notes,304,B,34.248627059410886,Female,2015,True,False,False,False,False
+1530,Saint Pierre and Miquelon,No notes,666,B,47.66734279918864,Female,2015,True,False,False,False,False
+1531,United States of America,No notes,840,B,51.04926958574436,Female,2015,True,False,False,False,False
+1532,Oceania,No notes,909,F,50.62821523472864,Female,2015,False,False,False,False,True
+1533,Australia and New Zealand,No notes,927,F,50.78597160032442,Female,2015,False,False,False,False,True
+1534,Australia,22,36,B,50.65425347182436,Female,2015,True,False,False,False,False
+1535,New Zealand,No notes,554,B,51.64282086991313,Female,2015,True,False,False,False,False
+1536,Melanesia,No notes,928,F,43.598704320452576,Female,2015,False,False,False,False,True
+1537,Fiji,No notes,242,B,46.033015780670496,Female,2015,True,False,False,False,False
+1538,New Caledonia,No notes,540,B,46.14870119769793,Female,2015,True,False,False,False,False
+1539,Papua New Guinea,No notes,598,C R,35.07873710340548,Female,2015,False,True,True,False,False
+1540,Solomon Islands,No notes,90,B,43.907156673114116,Female,2015,True,False,False,False,False
+1541,Vanuatu,No notes,548,B,50.32946344524631,Female,2015,True,False,False,False,False
+1542,Micronesia,No notes,954,F,49.37204159900494,Female,2015,False,False,False,False,True
+1543,Guam,No notes,316,B,48.42092812364468,Female,2015,True,False,False,False,False
+1544,Kiribati,No notes,296,B,47.28829686013321,Female,2015,True,False,False,False,False
+1545,Marshall Islands,No notes,584,B,38.76370280146163,Female,2015,True,False,False,False,False
+1546,Micronesia (Federated States of),No notes,583,B,46.55297532656023,Female,2015,True,False,False,False,False
+1547,Nauru,No notes,520,C,39.99370673379484,Female,2015,False,True,False,False,False
+1548,Northern Mariana Islands,No notes,580,B,57.963784183296376,Female,2015,True,False,False,False,False
+1549,Palau,No notes,585,B,43.255649717514125,Female,2015,True,False,False,False,False
+1550,Polynesia,No notes,957,F,46.25762617859124,Female,2015,False,False,False,False,True
+1551,American Samoa,No notes,16,B,48.75086147484494,Female,2015,True,False,False,False,False
+1552,Cook Islands,No notes,184,B,49.95183044315992,Female,2015,True,False,False,False,False
+1553,French Polynesia,No notes,258,B,42.990218910107124,Female,2015,True,False,False,False,False
+1554,Niue,No notes,570,B,45.78096947935368,Female,2015,True,False,False,False,False
+1555,Samoa,No notes,882,B,49.90870359099209,Female,2015,True,False,False,False,False
+1556,Tokelau,No notes,772,B,52.15605749486652,Female,2015,True,False,False,False,False
+1557,Tonga,No notes,776,B,45.437096492758684,Female,2015,True,False,False,False,False
+1558,Tuvalu,No notes,798,C,44.680851063829785,Female,2015,False,True,False,False,False
+1559,Wallis and Futuna Islands,No notes,876,B,49.526149526149524,Female,2015,True,False,False,False,False
